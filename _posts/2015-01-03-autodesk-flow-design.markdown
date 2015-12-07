@@ -2,7 +2,7 @@
 layout: project
 title:  "Autodesk Flow Design"
 categories: professional
-image: img/autodesk_flow_design.jpg
+image: img/autodesk_flow_design_gradient.jpg
 permalink: /:categories/:title/
 ---
 Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. 
