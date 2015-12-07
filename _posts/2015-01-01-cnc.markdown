@@ -1,0 +1,14 @@
+---
+layout: project
+title:  "CNC"
+categories: sideproject
+image: img/autodesk_cfd.png
+permalink: /:categories/:title/
+---
+Need to figure out content
+
+Card 1 - Handplane(s)
+
+Card 2 - Chocolate mold(s)
+
+Card 3 - Think of stuff to make in December

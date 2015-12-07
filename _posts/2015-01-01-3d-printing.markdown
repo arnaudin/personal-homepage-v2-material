@@ -1,0 +1,16 @@
+---
+layout: project
+title:  "3D Printing"
+categories: sideproject
+image: img/autodesk_cfd.png
+permalink: /:categories/:title/
+---
+Need to figure out how to insert cards.
+
+Card 1 - Bike light mount(s)
+
+Card 2 - zipper pulls and lanyard beads
+
+Card 3 - Coffee grinder hack
+
+Card 4 - Composite printing

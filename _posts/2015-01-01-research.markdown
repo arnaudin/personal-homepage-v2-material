@@ -1,0 +1,16 @@
+---
+layout: project
+title:  "Research"
+categories: professional
+image: img/autodesk_cfd.png
+permalink: /:categories/:title/
+---
+Text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text.
+
+#### Usability Benchmarking
+
+Content
+
+#### Total Experience Mapping
+
+Content
