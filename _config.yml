@@ -1,0 +1,34 @@
+# Site settings
+title: Ryan Arnaudin
+myname: Ryan Arnaudin
+email: arnaudin@ryanarnaudin.com
+description: > # this means to ignore newlines until "baseurl:"
+  Ryan Arnaudin is a designer & engineer in San Francisco, CA
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ryanarnaudin.com/" # the base hostname & protocol for your site
+name: Ryan Arnaudin's Blog
+twitter_username: arnaudin
+github_username:  arnaudin
+gplus_username: RyanArnaudin
+instagram_username: arnaudin
+linkedin_username: arnaudin
+codepen_username: arnaudin
+
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: default    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+
+more_vert:
+  option1:
+    name: Cool Option 1
+    link: www.myawesomelink.com
+  option2:
+    name: Cool Option 2
+    link: www.myawesomelink.com
+  option3:
+    name: Cool Option 3
+    link: www.myawesomelink.com
+
+# Build settings
+markdown: kramdown
