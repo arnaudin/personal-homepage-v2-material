@@ -4,6 +4,7 @@ title:  "Autodesk CFD"
 categories: professional
 image: img/autodesk_cfd.png
 permalink: /:categories/:title/
+blurb: This is a test blurb describing Autodesk CFD.
 ---
 I have been the UX lead for Autodesk's computational fluid dynamics (CFD) apps since 2011. I have supported the following releases of our professional-level offering:
 
