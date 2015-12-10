@@ -10,7 +10,7 @@ layout: default
 	  </div>
 
 	  <div class="mdl-tabs__panel is-active" id="projects-panel">
-		  <div class="section-title mdl-typography--display-1-color-contrast">Professional</div>
+		  <div class="section-title mdl-typography--display-1-color-contrast mdl-cell--hide-phone">Professional</div>
 		  <div class="mdl-grid">
 		  
 		  {% for post in site.categories.professional | sort:"name" %}
@@ -46,7 +46,7 @@ layout: default
 		  {% endfor %}
 		  </div>
 		  
-		  <div class="section-title mdl-typography--display-1-color-contrast">Personal Projects</div>
+		  <div class="section-title mdl-typography--display-1-color-contrast mdl-cell--hide-phone">Personal Projects</div>
 		  <div class="mdl-grid">
 		  
 		  {% for post in site.categories.sideproject % | sort:"name" %}
