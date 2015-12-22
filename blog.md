@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 All of my blog posts are listed here. You can follow along via [RSS](../blogfeed.xml "Blog feed"), or on Medium.
 
-Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. 
+Coming soon...
 
 <div class="page-content">
 <div class="mdl-grid">

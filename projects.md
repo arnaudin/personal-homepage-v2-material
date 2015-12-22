@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. Wide text hack. 
+Coming soon...
 
 <div class="page-content">
   <h4>Professional</h4>

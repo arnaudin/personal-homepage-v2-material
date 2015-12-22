@@ -5,10 +5,14 @@ categories: sideproject
 image: img/autodesk_cfd.png
 permalink: /:categories/:title/
 ---
-Need to figure out content
+#### Handplanes
 
-Card 1 - Handplane(s)
+Coming soon...
 
-Card 2 - Chocolate mold(s)
+#### Custom Chocolates
 
-Card 3 - Think of stuff to make in December
+Coming soon...
+
+#### CNC Shop
+
+Coming soon...

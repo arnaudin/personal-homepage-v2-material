@@ -5,4 +5,4 @@ categories: sideproject
 image: img/autodesk_cfd.png
 permalink: /:categories/:title/
 ---
-Photos here.
+Photos here. Coming soon...

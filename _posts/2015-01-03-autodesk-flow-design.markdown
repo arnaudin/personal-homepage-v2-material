@@ -6,14 +6,10 @@ image: img/autodesk_flow_design_gradient.jpg
 permalink: /:categories/:title/
 blurb: This is a test blurb describing Autodesk Flow Design.
 ---
-Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. 
+Coming soon...
 
-Maybe some images.
-
-Some more text.
-
-Some descriptions.
-
-Some process.
-
-Some metrics.
+- Images
+- Text
+- Descriptions
+- Process
+- Metrics

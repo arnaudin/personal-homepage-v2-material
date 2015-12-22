@@ -4,13 +4,14 @@ title:  "Research"
 categories: professional
 image: img/autodesk_cfd.png
 permalink: /:categories/:title/
+blurb: This is a test blurb describing research activities.
 ---
-Text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text.
+Coming soon...
 
 #### Usability Benchmarking
 
-Content
+Coming soon...
 
 #### Total Experience Mapping
 
-Content
+Coming soon...

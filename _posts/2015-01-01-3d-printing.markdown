@@ -4,13 +4,20 @@ title:  "3D Printing"
 categories: sideproject
 image: img/autodesk_cfd.png
 permalink: /:categories/:title/
+blurb: This is a test blurb
 ---
-Need to figure out how to insert cards.
+#### Bike Light Mount
 
-Card 1 - Bike light mount(s)
+Coming soon...
 
-Card 2 - zipper pulls and lanyard beads
+#### Zipper Pulls & Lanyard Beads
 
-Card 3 - Coffee grinder hack
+Coming soon...
 
-Card 4 - Composite printing
+#### Coffee Grinder Hack
+
+Coming soon...
+
+#### Composite Printing
+
+Coming soon...
