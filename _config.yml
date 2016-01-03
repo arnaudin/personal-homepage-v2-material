@@ -2,6 +2,7 @@
 title: Ryan Arnaudin
 myname: Ryan Arnaudin
 email: arnaudin@ryanarnaudin.com
+timezone: America/Los_Angeles
 description: > # this means to ignore newlines until "baseurl:"
   Ryan Arnaudin is a designer & engineer in San Francisco, CA
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -18,6 +19,7 @@ codepen_username: arnaudin
 header_type: default  # values [ drawer, default ]
 post_type: default    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
+future: true
 
 more_vert:
   option1:
