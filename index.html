@@ -79,7 +79,7 @@ layout: default
 						
 						{% else %}
 						
-							{{ post.excerpt }}
+							{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 						
 						{% endif %}
 						
