@@ -9,7 +9,11 @@ layout: default
       <div class="mdl-color-text--grey-500">
       {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
       </div>
-      <h3>{{ page.title }}</h3>
+	  {% if page.title-override %}
+		<h3>{{ page.title-override }}</h3>
+	  {% else %}
+		<h3>{{ page.title }}</h3>
+	  {% endif %}
       <article class="post-content">
         <p>{{ content }}</p>
       </article>
