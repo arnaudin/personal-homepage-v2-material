@@ -12,5 +12,5 @@ We are a tight group of friends who are never short on excuses for why we won't 
 [Fork it](https://github.com/arnaudin/coyotebailsquad/) on Github.
 
 <div style="background-clip: border-box;box-sizing: border-box; border-radius: 2px; overflow-x:hidden; overflow-y:hidden;">
-	<p class="mdl-shadow--4dp" style="margin-bottom: 0px;"><a href="http://ryanarnaudin.com//sites/coyotebailsquad/"><img src="http://ryanarnaudin.com//img/cbs-cap.jpg" alt="Coyote Bail Squad" /></a></p>
+	<p class="mdl-shadow--4dp" style="margin-bottom: 0px;"><a href="http://ryanarnaudin.com//sites/coyotebailsquad/"><img style="width: 100%" src="http://ryanarnaudin.com//img/cbs-cap.jpg" alt="Coyote Bail Squad" /></a></p>
 </div>
