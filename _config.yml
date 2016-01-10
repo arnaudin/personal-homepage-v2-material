@@ -14,7 +14,7 @@ gplus_username: RyanArnaudin
 instagram_username: arnaudin
 linkedin_username: arnaudin
 codepen_username: arnaudin
-highlighter: rouge
+highlighter: pygments
 encoding: utf-8
 
 # Layout settings
