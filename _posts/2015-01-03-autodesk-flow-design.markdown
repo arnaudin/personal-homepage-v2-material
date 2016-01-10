@@ -67,3 +67,33 @@ Once we found a market of interested users with Falcon, I served as design lead 
 
 In addition to designing for the platform, the redesign provided an opportunity to eliminate unused features, emphasize top features, and optimize the workflow based on what we had learned from early adopters. 
 
+#### Additional Impact
+
+The thing I love about designing product to empower people is that they will inherently be used in unpredictable ways. For example...
+
+##### Superbowl
+
+Flow Design and Autodesk Simulation provided the technology behind the wind simulation for Superbowl XLVIII.
+
+<div style="background-clip: border-box;box-sizing: border-box; border-radius: 2px; overflow-x:hidden; overflow-y:hidden;">
+	<p class="mdl-shadow--4dp" style="margin-bottom: 0px;"><img style="width: 100%" src="http://ryanarnaudin.com/img/post-flowdesign-sb2.jpg" alt="Flow Design Superbowl" /></p>
+</div>
+<br>
+<div style="background-clip: border-box;box-sizing: border-box; border-radius: 2px; overflow-x:hidden; overflow-y:hidden;">
+	<p class="mdl-shadow--4dp" style="margin-bottom: 0px;"><img style="width: 100%" src="http://ryanarnaudin.com/img/post-flowdesign-sb1.jpg" alt="Flow Design Superbowl" /></p>
+</div>
+<br>
+<div style="background-clip: border-box;box-sizing: border-box; border-radius: 2px; overflow-x:hidden; overflow-y:hidden;">
+	<p class="mdl-shadow--4dp" style="margin-bottom: 0px;"><img style="width: 100%" src="http://ryanarnaudin.com/img/post-flowdesign-trax.png" alt="Weather Trax" /></p>
+</div>
+
+##### National Youth Science Day
+
+As a testament to the ease of use, elementary school students around the country were introduced to Flow Design on National Youth Science Day, as part of a rocket building activity. This photo is from an event I volunteered at in San Rafael, California.
+
+<div style="background-clip: border-box;box-sizing: border-box; border-radius: 2px; overflow-x:hidden; overflow-y:hidden;">
+	<p class="mdl-shadow--4dp" style="margin-bottom: 0px;"><img style="width: 100%" src="http://ryanarnaudin.com/img/post-flowdesign-nysd.jpg" alt="Flow Design at National Youth Science Day" /></p>
+</div>
+
+
+
