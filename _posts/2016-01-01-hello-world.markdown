@@ -11,4 +11,4 @@ I'm [Ryan Arnaudin]({{ "/about/" | prepend: site.baseurl }}), practicing UX & Pr
 
 I'll be migrating a number of items to this site in the coming weeks including learnings, thinkings, and doings, many of which have not been published publicly before. Keep updated via [RSS]({{ "/feed.xml" | prepend: site.baseurl }} "RSS") or [Email](http://goo.gl/forms/LLXHMa1SvQ "Email").
 
-In the meantime, you can find and connect with me on [Twitter](https://twitter.com/{{ site.twitter_username }} "Twitter") and [LinkedIn](https://linkedin.com/in/{{ site.linkedin_username }} "LinkedIn"). 
+In the meantime, you can find out what I'm doing [Now]({{ "/now/" | prepend: site.baseurl }}) and connect with me on [Twitter](https://twitter.com/{{ site.twitter_username }} "Twitter") or [LinkedIn](https://linkedin.com/in/{{ site.linkedin_username }} "LinkedIn"). 

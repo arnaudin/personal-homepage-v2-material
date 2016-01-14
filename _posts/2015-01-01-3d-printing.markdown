@@ -6,6 +6,8 @@ image: img/project-hero-3d-printing.jpg
 permalink: /projects/3dprinting/
 blurb: Highlighted 3D printing projects & prototypes. 
 ---
+*THIS PAGE IS A WORK IN PROGRESS -- CHECK BACK SOON*
+
 The opportunity that 3D printing provides creative designers and makers extends far beyond an endless supply of colorful plastic tchotchkes. I have found practical uses in rapid prototyping and one-off fixes & hacks. Here are a few: 
 
 #### Bike Light Mount

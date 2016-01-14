@@ -6,6 +6,8 @@ categories:
 image: img/autodesk_cfd.png
 permalink: /projects/photography/
 ---
+*THIS PAGE IS A WORK IN PROGRESS -- CHECK BACK SOON*
+
 As a designer and maker, I am constantly seeking inspiration from other disciplines. While I thoroughly enjoy the process and practicality  of photography on its own, it also has a huge influence on how I design. 
 
 Many of the visual overlaps are direct: the importance of composition & layout, balance, color, contrast, texture & patterns, motion & flow through a scene/screen, etc. 

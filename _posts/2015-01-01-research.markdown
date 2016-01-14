@@ -4,7 +4,7 @@ title:  "Research"
 categories: professional
 image: img/project-hero-research.jpg
 permalink: /projects/research/
-blurb: This is a test blurb describing research activities.
+blurb: I currently serve as the research lead for the Simulation UX group. I have experience leading targeted usability studies, product usability benchmarks, end-to-end experience studies, heuristic evaluations, and focus groups.
 ---
 Coming soon...
 

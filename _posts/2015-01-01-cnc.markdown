@@ -5,14 +5,17 @@ categories: sideproject
 image: img/autodesk_cfd.png
 permalink: /projects/cnc/
 ---
+*THIS PAGE IS A WORK IN PROGRESS -- CHECK BACK SOON*
+
 #### Handplanes
 
 Coming soon...
+
+![Handplane]({{ site.url }}img/page-cnc-handplane-backyard.jpg "Handplane")
+{: .post-fullwidth-image}
 
 #### Custom Chocolates
 
 Coming soon...
 
-#### CNC Shop
-
-Coming soon...
+I created a mold for a custom chocolate for Valentines day 2015...

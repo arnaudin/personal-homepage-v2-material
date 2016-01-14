@@ -4,7 +4,7 @@ title:  "Autodesk Flow Design"
 categories: professional
 image: img/autodesk_flow_design_gradient.jpg
 permalink: /projects/flowdesign/
-blurb: This is a test blurb describing Autodesk Flow Design.
+blurb: Flow Design is a virtual wind tunnel that makes airflow simulation accessible to any level engineer, architect, or product designer. Using the metaphor of a wind tunnel and real-time feedback we abstract away the complexities of running traditional computational fluid dynamics. 
 ---
 Flow Design is a virtual wind tunnel that makes airflow simulation accessible to any level engineer, architect, or product designer. Using the metaphor of a wind tunnel and real-time feedback we abstract away the complexities of running traditional computational fluid dynamics. 
 
