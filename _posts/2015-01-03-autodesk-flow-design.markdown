@@ -8,16 +8,14 @@ blurb: This is a test blurb describing Autodesk Flow Design.
 ---
 Flow Design is a virtual wind tunnel that makes airflow simulation accessible to any level engineer, architect, or product designer. Using the metaphor of a wind tunnel and real-time feedback we abstract away the complexities of running traditional computational fluid dynamics. 
 
-<div style="background-clip: border-box;box-sizing: border-box; border-radius: 2px; overflow-x:hidden; overflow-y:hidden;">
-	<p class="mdl-shadow--4dp" style="margin-bottom: 0px;"><a href="http://ryanarnaudin.com/img/post-flowdesign-standalone.png"><img style="width: 100%" src="http://ryanarnaudin.com/img/post-flowdesign-standalone.png" alt="Flow Design Standalone" /></a></p>
-</div>
+[![Flow Design Standalone]({{ site.url }}img/post-flowdesign-standalone.png)]({{ site.url }}img/post-flowdesign-standalone.png)
+{: .post-fullwidth-image}
 
 <br>
 Additionally, Flow Design embeds simulation workflows directly in the native design environment, making the evaluation of design changes quick and seamless.
 
-<div style="background-clip: border-box;box-sizing: border-box; border-radius: 2px; overflow-x:hidden; overflow-y:hidden;">
-	<p class="mdl-shadow--4dp" style="margin-bottom: 0px;"><a href="http://ryanarnaudin.com/img/post-flowdesign-inventor.png"><img style="width: 100%" src="http://ryanarnaudin.com/img/post-flowdesign-inventor.png" alt="Flow Design Inventor" /></a></p>
-</div>
+[![Flow Design Inventor]({{ site.url }}img/post-flowdesign-inventor.png)]({{ site.url }}img/post-flowdesign-inventor.png)
+{: .post-fullwidth-image}
 
 #### Role
 
@@ -75,25 +73,16 @@ The thing I love about designing product to empower people is that they will inh
 
 Flow Design and Autodesk Simulation provided the technology behind the wind simulation for Superbowl XLVIII.
 
-<div style="background-clip: border-box;box-sizing: border-box; border-radius: 2px; overflow-x:hidden; overflow-y:hidden;">
-	<p class="mdl-shadow--4dp" style="margin-bottom: 0px;"><img style="width: 100%" src="http://ryanarnaudin.com/img/post-flowdesign-sb2.jpg" alt="Flow Design Superbowl" /></p>
-</div>
-<br>
-<div style="background-clip: border-box;box-sizing: border-box; border-radius: 2px; overflow-x:hidden; overflow-y:hidden;">
-	<p class="mdl-shadow--4dp" style="margin-bottom: 0px;"><img style="width: 100%" src="http://ryanarnaudin.com/img/post-flowdesign-sb1.jpg" alt="Flow Design Superbowl" /></p>
-</div>
-<br>
-<div style="background-clip: border-box;box-sizing: border-box; border-radius: 2px; overflow-x:hidden; overflow-y:hidden;">
-	<p class="mdl-shadow--4dp" style="margin-bottom: 0px;"><img style="width: 100%" src="http://ryanarnaudin.com/img/post-flowdesign-trax.png" alt="Weather Trax" /></p>
-</div>
+![Flow Design Superbowl]({{ site.url }}img/post-flowdesign-sb2.jpg)
+{: .post-fullwidth-image}
+![Flow Design Superbowl]({{ site.url }}img/post-flowdesign-sb1.jpg)
+{: .post-fullwidth-image}
+![Weather Trax]({{ site.url }}img/post-flowdesign-trax.png)
+{: .post-fullwidth-image}
 
 ##### National Youth Science Day
 
 As a testament to the ease of use, elementary school students around the country were introduced to Flow Design on National Youth Science Day, as part of a rocket building activity. This photo is from an event I volunteered at in San Rafael, California.
 
-<div style="background-clip: border-box;box-sizing: border-box; border-radius: 2px; overflow-x:hidden; overflow-y:hidden;">
-	<p class="mdl-shadow--4dp" style="margin-bottom: 0px;"><img style="width: 100%" src="http://ryanarnaudin.com/img/post-flowdesign-nysd.jpg" alt="Flow Design at National Youth Science Day" /></p>
-</div>
-
-
-
+![Flow Design at National Youth Science Day]({{ site.url }}img/post-flowdesign-nysd.jpg)
+{: .post-fullwidth-image}
