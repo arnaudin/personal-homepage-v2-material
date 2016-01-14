@@ -3,7 +3,7 @@ layout: project
 title:  "CNC"
 categories: sideproject
 image: img/autodesk_cfd.png
-permalink: /:categories/:title/
+permalink: /project/cnc
 ---
 #### Handplanes
 
