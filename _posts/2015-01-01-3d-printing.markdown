@@ -21,9 +21,13 @@ After adding a front rack to my bike, I noticed two problems with my headlight s
 
 Moving the light forward and/or lower on the fork would solve the above issues. The rack had several threaded eyelets that could be leveraged to mount a solution. After several prototypes I settled on a design that could be mounted to a threaded eyelet with any M5 bolt, or could be mounted to an unthreaded eyelet with an M5 bolt and corresponding hex nut. 
 
+---
+
 #### Zipper Pulls & Lanyard Beads
 
 Coming soon...
+
+---
 
 #### Coffee Grinder Hack
 
@@ -36,6 +40,8 @@ It's an incredible hand grinder for the price, but the <a rel="nofollow" href="h
 I designed this simple pair of parts to hug the shaft at a second, lower point of contact. This prevents the shaft from wobbling, thus keeping the grind size consistent. 
 
 Download at [Thingiverse](https://www.thingiverse.com/thing:984399) or [Github](https://github.com/arnaudin/Printable-STL/tree/master/Hario%20Skerton%20Grinder%20Spacer%20Bearing). 
+
+---
 
 #### Composite Printing
 

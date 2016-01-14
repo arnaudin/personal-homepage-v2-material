@@ -1,7 +1,8 @@
 ---
 layout: project
 title:  "Photography"
-categories: sideproject
+categories: 
+- sideproject
 image: img/autodesk_cfd.png
 permalink: /:categories/:title/
 ---
