@@ -17,6 +17,7 @@
 .post-main {
   margin-top: -35vh;
   flex-shrink: 0;
+  width: 100%;
 
   .post-container {
     max-width: 1600px;
@@ -33,5 +34,15 @@
       margin-top: 48px;
     }
   }
+
+}
+
+.post-content img {
+	width: auto;
+
+}
+
+.post-content .post-fullwidth-image img {
+	width: 100%;
 
 }
