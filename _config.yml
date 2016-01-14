@@ -17,6 +17,7 @@ codepen_username: arnaudin
 amazon_associate_id: ryanarna-20
 highlighter: pygments
 encoding: utf-8
+permalink: pretty
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
