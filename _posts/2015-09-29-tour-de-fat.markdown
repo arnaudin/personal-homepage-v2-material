@@ -2,9 +2,7 @@
 layout: post
 title:  "A Year of Bikes"
 date:   2015-09-29 19:00:00
-categories: 
-- blog
-- bike
+categories: blog
 author: Ryan Arnaudin
 blurb: Last weekend I gave up my car and committed to a year of biking. 
 image: img/post-tdf-hero.jpg
