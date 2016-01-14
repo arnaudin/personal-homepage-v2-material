@@ -5,7 +5,7 @@ date:   2016-01-01 06:00:00
 categories: blog
 author: Ryan Arnaudin
 blurb: Welcome to my new website.
-image: img/autodesk_cfd.png
+image: img/post-hello-hero.jpg
 ---
 I'm [Ryan Arnaudin]({{ "/about/" | prepend: site.baseurl }}), practicing UX & Product Designer with a background in engineering. Welcome to my freshly updated home on the Internet. 
 
