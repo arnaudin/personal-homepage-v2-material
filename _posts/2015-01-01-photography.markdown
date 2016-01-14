@@ -4,7 +4,7 @@ title:  "Photography"
 categories: 
 - sideproject
 image: img/autodesk_cfd.png
-permalink: /projects/photography
+permalink: /projects/photography/
 ---
 As a designer and maker, I am constantly seeking inspiration from other disciplines. While I thoroughly enjoy the process and practicality  of photography on its own, it also has a huge influence on how I design. 
 
