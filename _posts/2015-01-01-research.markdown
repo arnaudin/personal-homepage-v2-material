@@ -2,7 +2,7 @@
 layout: project
 title:  "Research"
 categories: professional
-image: img/autodesk_cfd.png
+image: img/project-hero-research.jpg
 permalink: /:categories/:title/
 blurb: This is a test blurb describing research activities.
 ---

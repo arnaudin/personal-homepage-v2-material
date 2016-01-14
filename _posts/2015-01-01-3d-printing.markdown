@@ -2,13 +2,24 @@
 layout: project
 title:  "3D Printing"
 categories: sideproject
-image: img/autodesk_cfd.png
+image: img/project-hero-3d-printing.jpg
 permalink: /:categories/:title/
-blurb: This is a test blurb
+blurb: Highlighted 3D printing projects & prototypes. 
 ---
+The opportunity that 3D printing provides creative designers and makers extends far beyond an endless supply of colorful plastic tchotchkes. I have found practical uses in rapid prototyping and one-off fixes & hacks. Here are a few: 
+
 #### Bike Light Mount
 
-Coming soon...
+**Problem**
+
+After adding a front rack to my bike, I noticed two problems with my headlight setup:
+
+1. The rack itself blocked a portion of the light coming from my handlebar mount position, casting a distracting shadow in front of the bike. When the rack was loaded this was further pronounced to the point of blocking a majority of the light, and in many cases reflecting it right back to my eyes.
+2. When I added a basket the light couldn't be mounted in the remaining space.
+
+**Solution**
+
+Moving the light forward and/or lower on the fork would solve the above issues. The rack had several threaded eyelets that could be leveraged to mount a solution. After several prototypes I settled on a design that could be mounted to a threaded eyelet with any M5 bolt, or could be mounted to an unthreaded eyelet with an M5 bolt and corresponding hex nut. 
 
 #### Zipper Pulls & Lanyard Beads
 
@@ -16,7 +27,15 @@ Coming soon...
 
 #### Coffee Grinder Hack
 
-Coming soon...
+**Problem**
+
+It's an incredible hand grinder for the price, but the <a rel="nofollow" href="http://www.amazon.com/gp/product/B001802PIQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001802PIQ&linkCode=as2&tag=ryanarna-20&linkId=UVOYMNHMT7RI533J">Hario Skerton</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=ryanarna-20&l=as2&o=1&a=B001802PIQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> has a critical design flaw that becomes evident over time. You'll begin to notice this as a slight wobble in the grinding motion that will become more and more exaggerated over time. This is due to the metal grinder shaft interfacing with a plastic part at a single point of contact, and will result in uneven grind sizes. 
+
+**Solution**
+
+I designed this simple pair of parts to hug the shaft at a second, lower point of contact. This prevents the shaft from wobbling, thus keeping the grind size consistent. 
+
+Download at [Thingiverse](https://www.thingiverse.com/thing:984399) or [Github](https://github.com/arnaudin/Printable-STL/tree/master/Hario%20Skerton%20Grinder%20Spacer%20Bearing). 
 
 #### Composite Printing
 
