@@ -3,7 +3,7 @@ layout: project
 title:  "Research"
 categories: professional
 image: img/project-hero-research.jpg
-permalink: /project/research
+permalink: /projects/research
 blurb: This is a test blurb describing research activities.
 ---
 Coming soon...

@@ -3,8 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-Coming soon...
-
 <div class="page-content">
   <h4>Professional</h4>
 	<ul>

@@ -3,7 +3,7 @@ layout: project
 title:  "Autodesk CFD"
 categories: professional
 image: img/autodesk_cfd.png
-permalink: /project/cfd
+permalink: /projects/cfd
 blurb: This is a test blurb describing Autodesk CFD.
 ---
 Autodesk CFD aims to be a professional-level yet easy-to-use computational fluid dynamics (CFD) tool for engineers. In essence this means it is an approachable fluid flow & heat transfer simulation tool. 
