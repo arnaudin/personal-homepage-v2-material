@@ -4,7 +4,7 @@ title:  "Research"
 categories: professional
 image: img/project-hero-research.jpg
 permalink: /projects/research/
-blurb: I currently serve as the research lead for the Simulation UX group. I have experience leading targeted usability studies, product usability benchmarks, end-to-end experience studies, heuristic evaluations, and focus groups.
+blurb: I serve as the research lead for the Autodesk Simulation UX group. I have experience leading usability studies, product usability benchmarks, end-to-end experience studies, heuristic evaluations, and focus groups.
 ---
 Coming soon...
 
