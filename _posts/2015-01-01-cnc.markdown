@@ -9,7 +9,9 @@ permalink: /projects/cnc/
 
 #### Handplanes
 
-Coming soon...
+A bodysurfing handplane (or handboard) is like a small surfboard for your hand. Depending on size and shape it can be used to more easily get barreled, get more optimal position on the wave face, and/or get more speed. 
+
+This handplane was drawn as a 2D vector and cut out on a ShopBot. From there, I used a orbital and belt sanders to shape the rails, deck, and bottom. 
 
 ![Handplane]({{ site.url }}img/page-cnc-handplane-backyard.jpg "Handplane")
 {: .post-fullwidth-image}
