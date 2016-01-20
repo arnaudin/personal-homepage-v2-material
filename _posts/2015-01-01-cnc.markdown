@@ -5,19 +5,30 @@ categories: sideproject
 image: img/autodesk_cfd.png
 permalink: /projects/cnc/
 ---
-*THIS PAGE IS A WORK IN PROGRESS -- CHECK BACK SOON*
-
 #### Handplanes
 
-A bodysurfing handplane (or handboard) is like a small surfboard for your hand. Depending on size and shape it can be used to more easily get barreled, get more optimal position on the wave face, and/or get more speed. 
+A bodysurfing handplane (or handboard) is a small surfboard for your hand. Depending on size and shape it can be used to more easily get barreled, help with optimal position on the wave face, and/or get more speed in the water. 
 
 This handplane was drawn as a 2D vector and cut out on a ShopBot. From there, I used a orbital and belt sanders to shape the rails, deck, and bottom. 
 
 ![Handplane]({{ site.url }}img/page-cnc-handplane-backyard.jpg "Handplane")
-{: .post-fullwidth-image}
+{: .post-vertical-image}
 
 #### Custom Chocolates
 
-Coming soon...
+For a unique Valentines Day gift, I created a mold for a custom chocolate piece.
 
-I created a mold for a custom chocolate for Valentines day 2015...
+After a handful of concept sketches, I modeled variations of the chocolate positive in Fusion 360.
+
+I then took the model through CAM for Fusion for programming, and then to the OtherMill software. The positive was cut from machine wax on an OtherMill dekstop CNC mill. 
+
+One I cleaned up the positive, it was time to create the mold. To do this, I build temporary walls around the positive and poured in a two part, food safe silicone that sat for about a day. 
+
+From there, I created several chocolates in the mold using Tcho baking chocolate. This gift was a hit on all levels!
+
+#### Coming soon
+
+More CNC work coming soon! I have become fascinated with manufacturing processes and am in the process of getting certified for the CNC Shop at Autodesk's Pier 9 workshop. Here are a few models I am working on:
+
+
+
