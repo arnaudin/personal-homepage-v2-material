@@ -5,11 +5,11 @@ layout: default
 
 	<div class="mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
 		<div class="mdl-tabs__tab-bar">
-			<a href="#projects-panel" class="mdl-tabs__tab is-active">Projects</a>
-			<a href="#blog-panel" class="mdl-tabs__tab">Blog</a>
+			<a href="#projects" class="mdl-tabs__tab is-active">Projects</a>
+			<a href="#blog" class="mdl-tabs__tab">Blog</a>
 		</div>
 
-		<div class="mdl-tabs__panel is-active" id="projects-panel">
+		<div class="mdl-tabs__panel is-active" id="projects">
 			<div class="section-title mdl-typography--display-1-color-contrast mdl-cell--hide-phone">Professional</div>
 			<div class="mdl-grid">
 		  
@@ -60,7 +60,7 @@ layout: default
 		</div>
 		<div class="section-title mdl-typography--display-1-color-contrast"></div>	  
 	</div>
-		<div class="mdl-tabs__panel" id="blog-panel">
+		<div class="mdl-tabs__panel" id="blog">
 			<div class="mdl-grid">
 		  
 				{% for post in site.categories.blog %}
