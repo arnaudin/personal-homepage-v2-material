@@ -5,9 +5,10 @@
       <input class="mdl-mega-footer--heading-checkbox" type="checkbox" checked>
       <h1 class="mdl-mega-footer--heading">CONTACT</h1>
       <ul class="mdl-mega-footer--link-list">
-        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+	    <li><a href="https://twitter.com/{{ site.twitter_username }}">Send a tweet</a></li>
+        <li><a href="mailto:{{ site.email }}">Email me</a></li>
       </ul>
-	  <h1 class="mdl-mega-footer--heading">SUBSCRIBE</h1>
+	  <h1 class="mdl-mega-footer--heading">SUBSCRIBE TO UPDATES</h1>
 	  <ul class="mdl-mega-footer--link-list">
         <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">subscribe via RSS</a></li>
 		<li><a href="http://goo.gl/forms/LLXHMa1SvQ">subscribe via email</a></li>
@@ -16,7 +17,7 @@
 
     <div class="mdl-mega-footer--drop-down-section">
       <input class="mdl-mega-footer--heading-checkbox" type="checkbox" checked>
-      <h1 class="mdl-mega-footer--heading">CONNECT</h1>
+      <h1 class="mdl-mega-footer--heading">FOLLOW & CONNECT</h1>
       <ul class="mdl-mega-footer--link-list">
         {% if site.linkedin_username %}
 			<li>
