@@ -3,7 +3,7 @@ layout: project
 title:  "Photography"
 categories: 
 - sideproject
-image: img/autodesk_cfd.png
+image: img/post-photo-hero.jpg
 permalink: /projects/photography/
 ---
 As a designer and maker, I am constantly seeking inspiration from other disciplines. While I thoroughly enjoy the process and practicality  of photography on its own, it also has had a huge influence on how I design. 
