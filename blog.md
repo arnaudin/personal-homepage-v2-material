@@ -3,9 +3,9 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-All of my blog posts are listed here, most recent first. 
+All blog posts are listed here, most recent at top. 
 
-Follow along via [RSS](../blogfeed.xml "Blog feed"), or on Medium.
+Follow along via [RSS](../blogfeed.xml "Blog feed"), or on [Medium](https://medium.com/@{{ site.medium_username }}).
 
 <div class="page-content">
   <div class="mdl-grid">
