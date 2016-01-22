@@ -18,7 +18,7 @@ I had a personal interest in learning more about Material Design and the Android
 
 #### Screen Flow
 
-![Proposed App Flow]({{ site.url }}img/post-job-monitor-flow.png)
+![Proposed App Flow]({{ site.url }}img/post-job-monitor-flow-darken.png)
 {: .post-fullwidth-image}
 
 #### Design Explorations
