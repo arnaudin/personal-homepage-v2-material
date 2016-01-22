@@ -6,12 +6,53 @@ image: img/project-hero-research.jpg
 permalink: /projects/research/
 blurb: I serve as the research lead for the Autodesk Simulation UX group. I have experience leading usability studies, product usability benchmarks, end-to-end experience studies, heuristic evaluations, and focus groups.
 ---
-Coming soon...
+I currently serve as the research lead for the Autodesk Simulation UX group, and have experience running many types of design research.
+
+Note: most findings from these studies cannot be shown publicly. Identifying features have been scrubbed. I can attempt to address specific questions about process if you contact me. 
 
 #### Usability Benchmarking
 
-Coming soon...
+To quantify and track product usability, we established a biennial full-product usability study. I worked with a researcher to implement this study; I developed the user tasks, set up the sessions, served as notetaker and recorder, and was liaison to the product team. 
+
+In addition to the findings, this was the first big opportunity to get this development team observing users directly. I worked closely with the team to make sure developers attended sessions, and presented the findings periodically to the team.
+
+By running the benchmark with 15-20 users and measuring completion rate, time on task, and satisfaction we are able to establish an overall product usability index, and also break it down by key functional areas. For this particular study I identified over 80 usability and bug fix opportunities. 
+
+The benchmark was so successful in illustrating the importance of usability that we have prioritized a "top ten usability" initiative for each subsequent release.
+
+**TODO: IMAGE**
 
 #### Total Experience Mapping
 
-Coming soon...
+As Autodesk has moved from desktop product licenses to connected subscription services, the full end-to-end user experience has become more important than ever for acquiring and retaining customers.
+
+The total experience mapping project was a massive undertaking to develop a framework for the company that would allow us to map and measure the experience. The framework was then applied through a series of studies, one of which I led. 
+
+The framework was developed through a pair of two-day workshops in which I participated alongside a few dozen cross-divisional and cross-functional colleagues. 
+
+**TODO: IMAGE**
+
+##### Experience Mapping Study
+
+This study took a multifaceted approach starting by mobilizing internal stakeholders from all functional areas. This was a crucial step, instilling an early sense of ownership in the findings, opportunities, and actions. 
+
+With user researchers I planned, facilitated, and analyzed the following:
+
+- Stakeholder interviews with functional leads (support, sales, marketing, etc.)
+- Heuristic evaluations with functional experts
+- In-lab usability testing with users
+- Customer satisfaction surveys
+- Community analysis across forums and social
+
+**TODO: IMAGE**
+
+##### Outcomes
+
+One of the most valuable outcomes was the alignment and collaboration that arose from bringing together the various stakeholders. Additionally, we identified about 100 opportunities for improvement. I presented our story and findings at the first Autodesk UX summit in the fall of 2014.
+
+##### The Experience Map
+
+A core deliverable was a consolidated experience map that provides a concise picture of what a user is doing, thinking, and feeling at each subphase in the customer journey. It combines quantitative data with real quotes and observations. A simplified version is shown below.
+
+**TODO: IMAGE**
+
