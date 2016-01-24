@@ -17,13 +17,13 @@ blurb: Flow Design is a virtual wind tunnel that makes airflow simulation access
 <br>
 Additionally, Flow Design embeds simulation workflows directly in the native design environment, making the evaluation of design changes quick and seamless.
 
-**Flow Design Inventor** CAD embedded virtual wind tunnel
+**Flow Design Inventor** Flow simulation embedded in CAD
 {: .mdl-color-text--grey-600}
 
 [![Flow Design Inventor]({{ site.url }}img/post-flowdesign-inventor.png)]({{ site.url }}img/post-flowdesign-inventor.png)
 {: .post-fullwidth-image}
 
-**Flow Design Revit** BIM embedded virtual wind tunnel
+**Flow Design Revit** Flow simulation embedded in BIM
 {: .mdl-color-text--grey-600}
 
 [![Project Falcon / Flow Design Revit]({{ site.url }}img/post-flowdesign-revit-s.jpg)]({{ site.url }}img/post-flowdesign-revit-s.jpg)
@@ -41,6 +41,8 @@ Responsibilities included:
 - Visual design
 
 Before Flow Design was released as a full commercial product, it existed as an experimental technology preview called Project Falcon.
+
+I provided design guidance, basic research, and usability evaluation for the Project Falcon MVP which was intended to be a flexible bare bones experiment. For example, the radial menu pictured here wasn't perfect on any one platform, but worked on all (mobile & desktop, touch & mouse).
 
 <div class="mdl-grid">
   <div class="mdl-card mdl-cell mdl-cell--8-col mdl-cell--6-col-desktop">
@@ -71,9 +73,7 @@ Before Flow Design was released as a full commercial product, it existed as an e
   </div>     
 </div>
 
-I provided design guidance, basic research, and usability evaluation for the Project Falcon MVP which was intended to be a flexible bare bones experiment. For example, the radial menu pictured here wasn't perfect on any one platform, but worked on all (mobile & desktop, touch & mouse).
-
-Once we found a market of interested users with Falcon, I served as design lead to prepare it for commercial release as Flow Design. Serious users were on Windows, so the first step was to redesign the UI for desktop usability.
+Once we found market interest, I served as design lead to prepare Falcon for commercial release as Flow Design. Serious users were on Windows, so the first step was to redesign the UI for desktop usability.
 
 In addition to designing for the platform, the redesign provided an opportunity to eliminate unused features, emphasize top features, and optimize the workflow based on what we had learned from early adopters. 
 
@@ -84,9 +84,9 @@ In addition to designing for the platform, the redesign provided an opportunity 
 
 #### Impact
 
-Roopinder Tara, Director of Content at ENGINEERING.com [called](http://www.worldcadaccess.com/blog/2014/08/autodesk-flow-design-the-easiest-to-use-cfd-program-ever.html) Flow Design the "*easiest-to-use CFD program ever.*" 
+The product has seen commercial success, and Roopinder Tara, Director of Content at ENGINEERING.com [called](http://www.worldcadaccess.com/blog/2014/08/autodesk-flow-design-the-easiest-to-use-cfd-program-ever.html) Flow Design the "*easiest-to-use CFD program ever.*" 
 
-But, the thing I love about designing products to empower people is that they will inherently be used in unpredictable ways. For example...
+The thing I love about designing products to empower people is that they will inherently be used in unpredictable ways. For example...
 
 **Superbowl XLVIII**
 {: .mdl-color-text--grey-600}
