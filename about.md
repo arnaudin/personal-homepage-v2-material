@@ -5,11 +5,15 @@ permalink: /about/
 ---
 I am a creative, analytical designer with over eight years of professional experience in software product development. I am an engineer by training, a UX designer by profession, and a perpetual student of design. 
 
-My passion lies in harnessing complex technologies in simple ways that empower people personally and professionally. I am a technologist with a humanist approach, designing products and experiences where technology serves its users in productive, meaningful ways.
+My passion lies in harnessing technologies in simple ways that empower people personally and professionally. I am a technologist with a humanist approach, designing products and experiences where technology serves its users in productive, meaningful ways.
 
 #### Approach 
 
-I strive to be a capable, full-stack designer. This does not mean one should always operate this way -- in an ideal situation I would team up with a great researcher and visual designer -- but I do believe a designer should be able to develop an idea through to a functioning prototype, by iteratively testing and refining their hypotheses/designs. 
+I strive to be a capable, full-stack designer. My strengths include:
+
+- design vision & strategy
+- UI & interaction design
+
 
 I understand the role of design in an evolving professional organization, and have experienced the spectrum: from having to fight to be heard, to educating colleagues and finding common ground, to becoming a trusted ally. I always come to the table as a strategic partner, embracing my responsibility to help the organization discover what is the right thing to make, and how to make it right. 
 
