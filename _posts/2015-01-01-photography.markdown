@@ -72,8 +72,10 @@ Currently I'm most interested by photographs that capture an emotion better than
 
 #### Published Work
 
-- Yearbooks
 - [Football Nation: Four Hundred Years of America's Game](http://amzn.to/1SAtH7E)
+- Virginia Tech Bugle yearbooks
+- The Collegiate Times
+- Sihouette Literary and Art Magazine
 
 ![]({{ site.url }}img/post-photo-stairs.jpg)
 {: .post-fullwidth-image}

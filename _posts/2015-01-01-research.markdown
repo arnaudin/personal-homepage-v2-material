@@ -34,6 +34,9 @@ As Autodesk has been moving from desktop product licenses to connected subscript
 
 The total experience mapping project was an undertaking to develop a framework for the company that would allow us to map and measure the experience to improve it over time. The framework was synthesized from pair of two-day workshops in which I participated alongside a few dozen cross-divisional and cross-functional colleagues. 
 
+![Flow Design Superbowl]({{ site.url }}img/post-research-workshop.jpg)
+{: .post-fullwidth-image}
+
 ##### Experience Mapping Study
 
 This study took a multifaceted approach to apply the framework, starting by mobilizing internal stakeholders from all functional areas. This was a crucial step, instilling an early sense of ownership in the findings, opportunities, and actions. 

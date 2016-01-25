@@ -4,7 +4,7 @@ title:  "Hello World - New Website"
 date:   2016-01-01 06:00:00
 categories: blog
 author: Ryan Arnaudin
-blurb: Welcome to my new website.
+blurb: Welcome to my new website. Expect updates in the coming weeks.
 image: img/post-hello-hero.jpg
 ---
 Welcome to my freshly updated home on the Internet. 

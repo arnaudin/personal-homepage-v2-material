@@ -1,12 +1,15 @@
 ---
 layout: project
-title:  "3D Printing"
+title:  "3D Printing and CNC"
 categories: sideproject
 image: img/project-hero-3d-printing.jpg
 permalink: /projects/3dprinting/
 blurb: Highlighted 3D printing projects & prototypes. 
+title-override: "3D Printing and Additive Manufacturing"
 ---
 The opportunity that 3D printing provides creative designers and makers extends far beyond an endless supply of colorful plastic tchotchkes. I have found practical uses in rapid prototyping and one-off fixes & hacks. Here are a few: 
+
+---
 
 #### Bike Light Mount
 
@@ -101,6 +104,41 @@ I am currently experimenting with custom kevlar/nylon composite prints. These ar
 
 Coming soon...
 
+### CNC
+
+I've also recently become interested in subtractive manufacturing. I started with simple projects on the ShopBot and OtherMill, and just completed a [beginners course](http://www.instructables.com/id/Learn-CNC-The-Hard-Way/) on CNC at Autodesk's Pier 9. 
+
 ---
 
-More coming soon...
+#### Handplanes
+
+A bodysurfing handplane (or handboard) is a small surfboard for your hand. Depending on size and shape it can be used to more easily get barreled, help with optimal position on the wave face, and/or get more speed in the water. 
+
+This handplane was drawn as a 2D vector and cut out on a ShopBot. From there, I used a orbital and belt sanders to shape the rails, deck, and bottom. 
+
+![Handplane]({{ site.url }}img/page-cnc-handplane-backyard.jpg "Handplane")
+{: .post-vertical-image}
+
+---
+
+#### Custom Chocolates
+
+For a unique Valentines Day gift, I created a mold for a custom chocolate piece.
+
+After a handful of concept sketches, I modeled variations of the chocolate positive in Fusion 360.
+
+I then took the model through CAM for Fusion for programming, and then to the OtherMill software. The positive was cut from machine wax on an OtherMill dekstop CNC mill. 
+
+One I cleaned up the positive, it was time to create the mold. To do this, I build temporary walls around the positive and poured in a two part, food safe silicone that sat for about a day. 
+
+![Chocolate mold]({{ site.url }}img/post-cnc-chocolate-mold.jpg)
+{: .post-vertical-image}
+
+From there, I created several chocolates in the mold using Tcho baking chocolate. This gift was a hit on all levels!
+
+![Chocolate]({{ site.url }}img/post-cnc-chocolate-making.jpg)
+{: .post-vertical-image}
+
+#### Coming soon
+
+More CNC work coming soon! I have become fascinated with manufacturing processes and am in the process of getting certified for the CNC Shop at Autodesk's Pier 9 workshop. Here are a few models I am working on:

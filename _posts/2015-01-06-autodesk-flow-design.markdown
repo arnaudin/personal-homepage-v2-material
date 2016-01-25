@@ -77,6 +77,15 @@ Once we found market interest, I served as design lead to prepare Falcon for com
 
 In addition to designing for the platform, the redesign provided an opportunity to eliminate unused features, emphasize top features, and optimize the workflow based on what we had learned from early adopters. 
 
+**Redesign Concepts**
+{: .mdl-color-text--grey-600}
+
+![Flow Design Superbowl]({{ site.url }}img/post-flowdesign-wire-2.png)
+{: .post-fullwidth-image}
+
+![Flow Design Superbowl]({{ site.url }}img/post-flowdesign-wire-1.png)
+{: .post-fullwidth-image}
+
 **Flow Design Demo**
 {: .mdl-color-text--grey-600}
 

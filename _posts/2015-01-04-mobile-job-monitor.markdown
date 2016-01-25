@@ -2,7 +2,7 @@
 layout: project
 title:  "Mobile Job Monitor"
 categories: professional
-image: img/placeholder.png
+image: img/gradient-emerald.png
 permalink: /projects/jobmonitor/
 blurb: With the ability to run many simulation jobs in parallel on the cloud, and with each taking up to hours to solve, it is desirable to monitor them on the go. Mobile Job Monitor provides a simple way to check progress and status.
 ---
