@@ -37,7 +37,7 @@ The total experience mapping project was an undertaking to develop a framework f
 ![Flow Design Superbowl]({{ site.url }}img/post-research-workshop.jpg)
 {: .post-fullwidth-image}
 
-##### Experience Mapping Study
+##### Approach
 
 This study took a multifaceted approach to apply the framework, starting by mobilizing internal stakeholders from all functional areas. This was a crucial step, instilling an early sense of ownership in the findings, opportunities, and actions. 
 
@@ -56,7 +56,9 @@ With user researchers I planned, facilitated, and analyzed the following:
 
 One of the most valuable outcomes was the alignment and collaboration that arose from bringing together the various stakeholders. Additionally, we identified about 100 opportunities for improvement. I presented our story and findings at the first Autodesk UX summit in the fall of 2014.
 
-##### The Experience Map
+##### Experience Map
 
-A core deliverable was a consolidated experience map that provides a concise picture of what a user is doing, thinking, and feeling at each subphase in the customer journey. It combines quantitative data with real quotes and observations. A simplified version is shown below.
+A core deliverable was a consolidated experience map that provides a concise picture of what a user is doing, thinking, and feeling at each subphase in the customer journey. It combines quantitative data with real quotes and observations. 
 
+![Experience Map]({{ site.url }}img/post-research-experience-map.jpg)
+{: .post-fullwidth-image}
