@@ -30,7 +30,7 @@ layout: default
 						</button>
 						<div class="mdl-card__actions mdl-card--border">
 							<a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="{{ post.url | prepend: site.baseurl }}">
-								MORE...
+								SEE MORE...
 							</a>
 						</div>
 					</div>
@@ -51,12 +51,15 @@ layout: default
                 <span class='card-link'></span>
               </a>
 					</div>
+          <div class="mdl-card__supporting-text height-100 mb-16">
+							{{ post.blurb }}
+						</div>
 					<button class="post-button mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored" onclick="location.href='{{ post.url | prepend: site.baseurl }}'">
 						<i class="material-icons">keyboard_arrow_right</i>
 					</button>
 					<div class="mdl-card__actions mdl-card--border">
 						<a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="{{ post.url | prepend: site.baseurl }}">
-						  MORE...
+						  SEE MORE...
 						</a>
 					</div>
 				</div>
