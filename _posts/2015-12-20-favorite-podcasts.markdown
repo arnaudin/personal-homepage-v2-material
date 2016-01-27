@@ -5,7 +5,7 @@ date:   2015-12-20 06:00:00
 categories: blog
 author: Ryan Arnaudin
 blurb: 2015 has been the year of the podcast. These are some of my favorites.
-image: img/post-podcast-hero-grad.jpg
+image: img/gradient-future.png
 ---
 
 #### [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/)
