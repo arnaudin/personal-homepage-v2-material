@@ -4,6 +4,7 @@ title:  "Coyote Bail Squad"
 categories: sideproject
 image: img/card-cbs.jpg
 permalink: /projects/coyotebailsquad/
+blurb: Fun and simple open source site that generates excuses for not cycling. 
 ---
 [Coyote Bail Squad]({{ site.url }}/sites/coyotebailsquad/) is a random excuse generator site built as a joke for the [Coyote Bomb Squad](http://coyotebombsquad.com/), a local cycling crew that I ride with. 
 
