@@ -6,7 +6,7 @@ image: img/autodesk_flow_design_gradient.jpg
 permalink: /projects/flowdesign/
 blurb: Flow Design is a virtual wind tunnel that makes airflow simulation accessible to any level engineer, architect, or product designer. Using the metaphor of a wind tunnel and real-time feedback we abstract away the complexities of running traditional computational fluid dynamics. 
 ---
-[Flow Design](http://www.autodesk.com/store/flow-design) is a virtual wind tunnel that makes airflow simulation accessible to any level engineer, architect, or product designer. Using the metaphor of a wind tunnel and real-time feedback we abstract away the complexities of running traditional computational fluid dynamics. Flow Design should feel light weight and playful, to encourage hands-on design exploration.
+[Flow Design](http://www.autodesk.com/store/flow-design) is a virtual wind tunnel that makes airflow simulation accessible to any level engineer, architect, or product designer. Using the metaphor of a wind tunnel and real-time feedback we abstract away the complexities of running traditional computational fluid dynamics. Flow Design feels light weight and playful, to encourage hands-on design exploration.
 
 **Flow Design Standalone**
 {: .mdl-color-text--grey-600}
@@ -14,7 +14,6 @@ blurb: Flow Design is a virtual wind tunnel that makes airflow simulation access
 [![Flow Design Standalone]({{ site.url }}img/post-flowdesign-standalone.png)]({{ site.url }}img/post-flowdesign-standalone.png)
 {: .post-fullwidth-image}
 
-<br>
 Additionally, Flow Design embeds simulation workflows directly in the native design environment, making the evaluation of design changes quick and seamless.
 
 **Flow Design Inventor** Flow simulation embedded in CAD
@@ -38,6 +37,7 @@ Responsibilities included:
 - Heuristic evaluation
 - User stories
 - Wireframes and mockups
+- Refining HTML/CSS layout
 - Visual design
 
 Before Flow Design was released as a full commercial product, it existed as an experimental technology preview called Project Falcon.
@@ -73,7 +73,7 @@ I provided design guidance, basic research, and usability evaluation for the Pro
   </div>     
 </div>
 
-Once we found market interest, I served as design lead to prepare Falcon for commercial release as Flow Design. Serious users were on Windows, so the first step was to redesign the UI for desktop usability.
+Once market interest was identified, I served as design lead to prepare Falcon for commercial release as Flow Design. Serious users were on Windows, so the first step was to redesign the UI and tailor usability for a desktop environment.
 
 In addition to designing for the platform, the redesign provided an opportunity to eliminate unused features, emphasize top features, and optimize the workflow based on what we had learned from early adopters. 
 
@@ -112,7 +112,7 @@ Flow Design and Autodesk Simulation provided the technology behind the wind simu
 **National Youth Science Day**
 {: .mdl-color-text--grey-600}
 
-As a testament to the ease of use, elementary school students around the country were introduced to Flow Design on [National Youth Science Day](http://academy.autodesk.com/4h), as part of a rocket building activity. This photo is from an event I volunteered at in San Rafael, California.
+As a testament to the ease of use, elementary school students around the country were introduced to Flow Design on [National Youth Science Day](http://academy.autodesk.com/4h), as part of a rocket building activity. This photo is from an event I volunteered at in San Rafael, California. 
 
 ![Flow Design at National Youth Science Day]({{ site.url }}img/post-flowdesign-nysd.jpg)
 {: .post-fullwidth-image}

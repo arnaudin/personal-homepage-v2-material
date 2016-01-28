@@ -10,7 +10,7 @@ Autodesk CFD is a professional-level yet easy-to-use computational fluid dynamic
 
 #### Role
 
-I have been the UX lead for Autodesk's computational fluid dynamics (CFD) apps since 2011, supporting the following releases:
+I have been the UX Design lead for Autodesk's computational fluid dynamics (CFD) apps since 2011, supporting the following releases:
 
 - Autodesk Simulation CFD 2012
 - Autodesk Simulation CFD 2013
@@ -36,15 +36,17 @@ In this role I have owned the user experience, with responsibilities including:
 
 Prior, I was involved in the design, testing, and release of eight consecutive on-time quarterly releases of CFdesign simulation software.
 
-I have supported a majority of new features over this time, so only general sampling of work follows. 
+I have supported a majority of new features over this time. An example of a large scale UI redesign follows. 
 
 #### UI Redesign
 
-Our UI redesign, from a menu/toolbar navigation paradigm to ribbon UI, represents a wide span of responsibilities. Our hypothesis was that a well-considered ribbon UI would:
+This full UI redesign, from a menu/toolbar navigation paradigm to ribbon UI, represents a wide span of responsibilities. 
+
+Our hypothesis was that a well-considered ribbon UI would:
 
 * Increase usability across all user types
-* Increase learnability for new and infrequent users
-* Increase familiarity and thus adoption for existing Autodesk customers
+* Increase learnability & discoverability for new and infrequent users (a common persona in simulation)
+* Increase familiarity and thus adoption for existing Autodesk customers who could benefit from adding simulation to their workflow
 
 **Classic navigation paradigm, Simulation CFD 2013**
 {: .mdl-color-text--grey-600}
@@ -54,15 +56,14 @@ Our UI redesign, from a menu/toolbar navigation paradigm to ribbon UI, represent
 
 ##### Research
 
-Undertaking a large-scale UI redesign, we had to ask ourselves a number of questions:
+Undertaking a large-scale UI redesign, we had to ask ourselves a number of questions, and choose the appropriate methods.
 
-* How are users interacting with the product or competing products? What is working? What isn't?
+* How are users interacting with our product or similar products? What is working? What isn't?
+* How often are commands used? In what order?
 * What are the workflows and dataflows in a typical organization?
 * Do we have an accurate model of our users (i.e. personas)? 
 * What are the big usability issues with the product?
 * Who are the stakeholders? What are the business goals?
-
-The following tools were leveraged:
 
 **Ethnographic research**
 {: .mdl-color-text--grey-600}
@@ -96,7 +97,7 @@ The following tools were leveraged:
 ![Design Principles]({{ site.url }}img/post-cfd-principles-s.jpg)
 {: .post-fullwidth-image}
 
-**Multi-year UI plan and supporting architecture**
+**UI component architecture**
 {: .mdl-color-text--grey-600}
 
 ![App Layout]({{ site.url }}img/post-cfd-app-layout.png)
@@ -120,7 +121,9 @@ Based on card sorting and stakeholder reviews, I began wireframing the more prom
 ![Wireframing UI Concepts]({{ site.url }}img/post-cfd-ribbon-wire-clean.png)
 {: .post-fullwidth-image}
 
-The quickest and most direct path forward was getting the layouts into Expression Blend (more recently merged with Visual Studio). WPF allowed the front and back-end code to be separated, so I could work directly on layout, interactions, and visual design independently of development in an environment that directly mimicked what a user could see. Further, I could drop the layout files into a build from dev and immediately have a fully working prototype. This was essential to delivering the project on time, and led to ultra-fast iteration.
+The quickest and most direct path forward was getting the layouts in XAML format in Expression Blend/Visual Studio. WPF allowed the front and back-end code to be separated, so I could work directly on layout, interactions, and visual design independently of development in an environment that directly mimicked what a user could see. 
+
+Further, I could drop the layout files into a build from dev and immediately have a fully working prototype. This was essential to delivering the project on time, and refine the design through quick iteration.
 
 **Prototyping**
 {: .mdl-color-text--grey-600}
@@ -152,9 +155,9 @@ While a company-wide visual design language existed, I was responsible for icons
 
 ##### Usability Testing
 
-The project team was small and under a tight timeline, so early usability testing was conducted with internal experts. The WPF framework allowed us to make changes almost immediately when issues were identified. 
+Early usability testing was conducted with internal experts. The WPF framework allowed us to make changes almost immediately when issues were identified. 
 
-As we entered beta we tested the more stable designs with end-users, eventually arriving at the final design (colored context panels not shown). For this design every test case performed better than the previous release in terms of task time; overall satisfaction and system usability scores were also higher. 
+As we neared beta we tested the more stable designs with end-users, eventually arriving at the final design (colored context panels not shown). For this design every test case performed better than the previous release in terms of task time; overall satisfaction and system usability scores were also higher. 
 
 ![Design Variations]({{ site.url }}img/post-cfd-ribbon-tabs-rtm.png)
 {: .post-fullwidth-image}
