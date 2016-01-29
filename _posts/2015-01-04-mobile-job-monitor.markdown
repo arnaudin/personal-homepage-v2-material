@@ -8,24 +8,24 @@ blurb: With the ability to run many simulation jobs in parallel on the cloud, an
 ---
 #### Background
 
-It is now possible to run simulation jobs in parallel on secure clusters through a number of web-based simulation services. For example, in 2012 Autodesk Simulation launched a cloud simulation service under the "360" name. With this sort of access to large banks of on-demand computational power, many simulations can be solved in parallel to explore variations. 
+It is now possible to run simulation jobs in parallel on secure clusters through a number of web-based simulation services. For example, in 2012 Autodesk Simulation launched a cloud simulation service called Simulation 360. With this sort of access to large banks of on-demand computational power, many simulations can be solved in parallel to explore variations. 
 
 #### Problem
 
-One gap in these services is that cloud-based simulations can typically only be monitored from the source computer, yet can take many hours. A typical workflow is that an engineer may submit several jobs to solve before leaving the office, and will want monitor them as they run. 
+A gap in these services is that the progress of cloud-based simulations can typically only be monitored from the source computer, yet can take many hours or sometimes even days. A typical workflow is that an engineer will submit several jobs to solve in the afternoon before leaving the office, and will want monitor them that evening as they run. 
 
 #### Solution
 
-Sim Job Monitor is a concept project I pursued individually. The premise is that a user should be able to monitor the progress of their currently solving simulations no matter where they are. There should be an option for notifications when jobs complete or fail, with basic details and output available for review. 
+Sim Job Monitor is a concept project I pursued individually as a possible solution. The premise is that a user should be able to monitor the progress of their currently solving simulations no matter where they are. There should be an option for notifications when jobs complete or fail, with basic details and output available for review. 
 
 I had a personal interest in learning more about Material Design and the Android SDK so I chose to design Job Monitor for Android.
 
-##### Screen Flow
+##### Screens & Flow
 
 ![Proposed App Flow]({{ site.url }}img/post-job-monitor-flow-darken.png)
 {: .post-fullwidth-image}
 
-##### Design Explorations
+##### Design Exploration
 
 **Exploring themes and visual variations**
 {: .mdl-color-text--grey-600}
