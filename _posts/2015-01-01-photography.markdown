@@ -14,14 +14,14 @@ Many of the visual overlaps are direct: the importance of composition & layout, 
 ![]({{ site.url }}img/post-photo-abstract-sidewalk.jpg)
 {: .post-fullwidth-image}
 
-Beyond that, one of the most important lessons for me has been working within constraints and eventually coming to embrace as an essence of the work. 
+Beyond that, one of the most important lessons for me has been working within constraints and eventually coming to embrace them as an essence of the work. 
 
-When you take a photograph, you are forced to tell a story in a single, rectangular frame. Depending on your gear, process, and the environment there will be numerous additional constraints including, but certainly not limited to: available light, focal range, film speed, color processing, subjects in motion, etc. A talented photographer uses these constraints to add to the story that the final image embodies.  The same can be said about a talented designer. 
+When you take a photograph, you are forced to tell a story in a single, rectangular frame. Depending on your gear, process, and the environment there will be numerous additional constraints including: available light, focal range, film speed, color processing, subjects in motion, etc. A talented photographer uses these constraints to add to the story that the final image embodies.  The same can be said about a talented designer working in their medium. 
 
 ![Snow Day]({{ site.url }}img/post-photo-snow-uva.jpg)
 {: .post-fullwidth-image}
 
-My interest in photography started with an old film SLR in high school, but really took off around 2004 when I purchased a Canon [300D](https://en.wikipedia.org/wiki/Canon_EOS_300D) digital SLR which enabled me to shoot essentially as much as I wanted.
+My interest in photography started with an old film SLR in high school, but really took off around 2004 when I purchased a Canon [300D](https://en.wikipedia.org/wiki/Canon_EOS_300D) digital SLR which enabled me to practice and shoot as much as I wanted.
 
 It didn't take long to get connected with other student photographers at my university, and soon I was shooting for the newspaper and yearbook. This afforded me unbelievable opportunities and access to shoot subjects ranging from sports, music, speakers, architecture, portraits, and of course news. 
 
@@ -73,8 +73,8 @@ Currently I'm most interested by photographs that capture an emotion better than
 
 #### Published Work
 
-- [Football Nation: Four Hundred Years of America's Game](http://amzn.to/1SAtH7E)
-- Virginia Tech Bugle yearbooks
+- [Football Nation: Four Hundred Years of America's Game](http://amzn.to/1SAtH7E) (Library of Congress)
+- Virginia Tech Bugle yearbook
 - The Collegiate Times
 - Sihouette Literary and Art Magazine
 

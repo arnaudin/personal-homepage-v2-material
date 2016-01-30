@@ -6,19 +6,19 @@ image: img/project-hero-research.jpg
 permalink: /projects/research/
 blurb: I serve as the research lead for the Autodesk Simulation UX group. I have experience leading usability studies, product usability benchmarks, end-to-end experience studies, heuristic evaluations, and focus groups.
 ---
-I currently serve as the design research lead for the Autodesk Simulation UX group, and have experience running many types of design research.
+I have experience leading usability studies, product usability benchmarks, end-to-end experience studies, heuristic evaluations, and focus groups.
 
-Note: the findings from these studies cannot be shown publicly. Identifying features have been scrubbed from the assets below. I can attempt to address specific questions about process. 
+Note: most the findings from these studies cannot be shown publicly. Identifying features have been scrubbed from the assets below which are intended to give a general feel. I can attempt to address specific questions about process. 
 
 #### Usability Benchmarking
 
-To quantify and track product usability, we established a biennial full-product usability study. I worked with a researcher to implement this study -- I developed the user tasks, set up the sessions, served as notetaker and recorder, and was liaison to the product team. 
+To quantify and track product usability, we established a biennial full-product usability study. I worked with a research professional to implement this study -- I developed the user tasks, set up the sessions, served as notetaker and recorder, and was liaison to the product team. 
 
 In addition to the findings, this was the first big opportunity to get our development team observing users directly. I worked closely with the team to make sure developers attended sessions, and presented the findings periodically to the team.
 
 By running the benchmark with 15-20 users and measuring completion rate, time on task, and satisfaction we are able to establish an overall product usability index, and also break it down by key functional areas. For this particular study I identified over 80 usability and bug fix opportunities. 
 
-The benchmark was so successful in illustrating the importance of usability that we have prioritized a "top ten usability" initiative for each subsequent release.
+The benchmark was so successful in illustrating the importance of usability that we have prioritized a "top usability" initiative for each release for the past three years including 5-10 of the top issues.
 
 **Usability factors by functional area** 
 {: .mdl-color-text--grey-600}
@@ -32,16 +32,16 @@ The benchmark was so successful in illustrating the importance of usability that
 
 As Autodesk has been moving from desktop product licenses to connected subscription services, the full end-to-end user experience has become more important than ever for acquiring and retaining customers.
 
-The total experience mapping project was an undertaking to develop a framework for the company that would allow us to map and measure the experience to improve it over time. The framework was synthesized from pair of two-day workshops in which I participated alongside a few dozen cross-divisional and cross-functional colleagues. 
+The total experience mapping project was an undertaking to develop a framework for the company that would allow us to map and measure the experience to improve it over time. The framework was synthesized from a series workshops in which I participated alongside many cross-divisional and cross-functional colleagues. 
 
 ![Flow Design Superbowl]({{ site.url }}img/post-research-workshop.jpg)
 {: .post-fullwidth-image}
 
-##### Approach
+##### Total Experience Study
 
 This study took a multifaceted approach to apply the framework, starting by mobilizing internal stakeholders from all functional areas. This was a crucial step, instilling an early sense of ownership in the findings, opportunities, and actions. 
 
-With user researchers I planned, facilitated, and analyzed the following:
+With a user researcher I planned, facilitated, and analyzed the following:
 
 - Stakeholder interviews with functional leads (support, sales, marketing, etc.)
 - Heuristic evaluations with functional experts
@@ -54,11 +54,11 @@ With user researchers I planned, facilitated, and analyzed the following:
 
 ##### Outcomes
 
-One of the most valuable outcomes was the alignment and collaboration that arose from bringing together the various stakeholders. Additionally, we identified about 100 opportunities for improvement. I presented our story and findings at the first Autodesk UX summit in the fall of 2014.
+One of the most valuable outcomes was the alignment and collaboration that arose from bringing together the various stakeholders and empowering them to identify and own opportunities in their functional area. We identified about 100 of these opportunities for improvement. I presented our story and findings at the first Autodesk UX summit in the fall of 2014.
 
 ##### Experience Map
 
-A core deliverable was a consolidated experience map that provides a concise picture of what a user is doing, thinking, and feeling at each subphase in the customer journey. It combines quantitative data with real quotes and observations. 
+A core deliverable was a consolidated experience map that provides a concise picture of what a user is doing, thinking, and feeling at each subphase in the customer journey. It combines quantitative data with real quotes and observations. This has been used to get buy-in from leadership, begin cross-functional collaborative conversations, and mobilize the development teams. 
 
 ![Experience Map]({{ site.url }}img/post-research-experience-map.jpg)
 {: .post-fullwidth-image}

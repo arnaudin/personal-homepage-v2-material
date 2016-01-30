@@ -7,18 +7,16 @@ permalink: /projects/3dprinting/
 blurb: I enjoy making things, and making things better. Highlighted 3D printing projects & prototypes. 
 title-override: "3D Printing and Additive Manufacturing"
 ---
-The opportunity that 3D printing provides creative designers and makers extends far beyond an endless supply of colorful plastic tchotchkes. I have found practical uses in rapid prototyping and one-off fixes & hacks. Here are a few: 
-
----
+The opportunity that 3D printing provides creative designers and makers extends far beyond an endless supply of colorful plastic tchotchkes. I have found practical uses in rapid prototyping and one-off fixes & hacks. Here are a few examples, more to come: 
 
 #### Bike Light Mount
 
 **Problem**
 
-When I added a front rack to my bike, I noticed two problems with my headlight setup:
+When I added a front rack to my bike, two problems became apparent with my headlight setup:
 
 1. The rack itself casted a shadow in front of the bike, made worse when I added a basket or load.
-2. When I added a taller basket the light couldn't  be mounted in the remaining space.
+2. When I added a taller basket or load the light couldn't even be mounted in the remaining space.
 
 **Solution**
 
@@ -36,7 +34,7 @@ Moving the light forward and/or below the rack would solve the above issues. The
 
 **Problem**
 
-It's a good hand grinder for the price, but the <a rel="nofollow" href="http://www.amazon.com/gp/product/B001802PIQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001802PIQ&linkCode=as2&tag=ryanarna-20&linkId=UVOYMNHMT7RI533J">Hario Skerton</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=ryanarna-20&l=as2&o=1&a=B001802PIQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> has a critical design flaw that becomes evident over time. You'll begin to notice this as a slight wobble in the grinding motion that will become more and more exaggerated over time. This is due to the metal grinder shaft interfacing with a plastic part at a single point of contact, and will result in uneven grind sizes. 
+The <a rel="nofollow" href="http://www.amazon.com/gp/product/B001802PIQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001802PIQ&linkCode=as2&tag=ryanarna-20&linkId=UVOYMNHMT7RI533J">Hario Skerton</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=ryanarna-20&l=as2&o=1&a=B001802PIQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is a good value hand grinder for the price, but has a critical design flaw that becomes evident over time. You'll begin to notice this as a slight wobble in the grinding motion that will become more and more exaggerated over time. This is due to the metal grinder shaft interfacing with a plastic part at a single point of contact, and will eventually lead to uneven grind sizes. 
 
 **Solution**
 
