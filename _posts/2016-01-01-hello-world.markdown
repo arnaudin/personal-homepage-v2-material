@@ -7,7 +7,7 @@ author: Ryan Arnaudin
 blurb: Welcome to my new website. Expect updates in the coming weeks.
 image: img/post-hello-hero.jpg
 ---
-Welcome to my freshly updated home on the Internet. 
+Welcome to my freshly updated home on the Internet. The [source is on Github](https://github.com/arnaudin/arnaudin.github.io).
 
 I'll be migrating a number of items to this site in the coming weeks including learnings, thinkings, and doings -- many of which have not been published publicly before. Keep updated via [RSS]({{ "/feed.xml" | prepend: site.baseurl }} "RSS") or [Email](http://goo.gl/forms/LLXHMa1SvQ "Email").
 
