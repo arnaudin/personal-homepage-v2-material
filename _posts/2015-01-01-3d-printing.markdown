@@ -28,8 +28,6 @@ Moving the light forward and/or below the rack would solve the above issues. The
 ![Custom Light Mount]({{ site.url }}img/post-3dprint-light-mount-sf-2.jpg)
 {: .post-fullwidth-image}
 
----
-
 #### Coffee Grinder Hack
 
 **Problem**
@@ -59,8 +57,6 @@ I designed this simple pair of parts to hug the shaft at a second, lower point o
 {: .post-fullwidth-image}
 
 Download at [Thingiverse](https://www.thingiverse.com/thing:984399) or [Github](https://github.com/arnaudin/Printable-STL/tree/master/Hario%20Skerton%20Grinder%20Spacer%20Bearing). 
-
----
 
 #### Composite Printing
 
@@ -96,8 +92,6 @@ I am currently experimenting with custom kevlar/nylon composite prints. These ar
 ![Fiber inlay design]({{ site.url }}img/post-3dprint-fiber-inlays-3d.png)
 {: .post-fullwidth-image}
 
----
-
 #### Zipper Pulls & Lanyard Beads
 
 Coming soon...
@@ -106,18 +100,26 @@ Coming soon...
 
 I've also recently become interested in subtractive manufacturing. I started with simple projects on the ShopBot and OtherMill, and just completed a [beginners course](http://www.instructables.com/id/Learn-CNC-The-Hard-Way/) on CNC at Autodesk's Pier 9. 
 
----
-
 #### Handplanes
 
 A bodysurfing handplane (or handboard) is a small surfboard for your hand. Depending on size and shape it can be used to more easily get barreled, help with optimal position on the wave face, and/or get more speed in the water. 
 
 This handplane was drawn as a 2D vector and cut out on a ShopBot. From there, I used a orbital and belt sanders to shape the rails, deck, and bottom. 
 
+![ShopBot]({{ site.url }}img/post-cnc-shopbot.jpg "ShopBot")
+{: .post-fullwidth-image}
+
 ![Handplane]({{ site.url }}img/page-cnc-handplane-backyard.jpg "Handplane")
 {: .post-vertical-image}
 
----
+![Handplane]({{ site.url }}img/post-cnc-handplane-finished.jpg "Handplane")
+{: .post-vertical-image}
+
+**Next up...**
+{: .mdl-color-text--grey-600}
+
+![Handplane rendering]({{ site.url }}img/post-cnc-handplane-render.jpg)
+{: .post-fullwidth-image}
 
 #### Custom Chocolates
 
