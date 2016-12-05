@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Work
 permalink: /projects/
 ---
 <div class="page-content">
@@ -12,7 +12,7 @@ permalink: /projects/
 		</li>
 	  {% endfor %}
 	</ul>
-  <h4>Personal</h4>
+  <h4>Projects and Interests</h4>
 	<ul>
 	  {% for post in site.categories.sideproject %}
 		<li>
