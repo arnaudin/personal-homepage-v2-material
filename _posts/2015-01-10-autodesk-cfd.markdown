@@ -6,13 +6,13 @@ image: img/autodesk_cfd.png
 permalink: /projects/cfd/
 blurb: Autodesk CFD is a professional yet easy-to-use computational fluid dynamics (CFD) tool for engineers, founded on the philosophy of simulating designs early and often.
 ---
-Autodesk CFD is a professional yet easy-to-use computational fluid dynamics (CFD) tool for engineers; in other words, an approachable fluid flow & heat transfer simulation tool. 
+Autodesk CFD is a professional yet easy-to-use computational fluid dynamics (CFD) tool for engineers; in other words, an approachable fluid flow & heat transfer simulation tool. It is used to simulate everything from pumps & valves, to electronics cooling, to aero & hydrodynamics, to HVAC systems in buildings.
 
-It is designed to embrace the belief that simulating product and architectural performance virtually, early, and often in the design cycle will result in cheaper and better performing real-world designs, with a faster time to market.
+As a product, our CFD is designed to embrace the belief that simulating design performance virtually, early, and often in the design cycle will result in cheaper and better performing real-world designs, with a faster time to market.
 
 #### Role
 
-I have been the UX Design lead for Autodesk's computational fluid dynamics (CFD) apps since 2011, supporting the following releases:
+I have been the UX Design Lead for Autodesk's computational fluid dynamics (CFD) apps since 2011, supporting the following successful releases:
 
 - Autodesk Simulation CFD 2012
 - Autodesk Simulation CFD 2013
@@ -43,15 +43,15 @@ An example of a large scale UI redesign follows.
 
 #### UI Redesign
 
-This full UI redesign, from a menu/toolbar navigation paradigm to ribbon UI, represents a wide span of responsibilities. 
+This full UI redesign from a menu/toolbar to ribbon interface is representative of a wide span of responsibilities. 
 
-In addition to aligning better with the overall Autodesk brand, our hypothesis was that a well-considered ribbon UI would:
+In addition to aligning with the Autodesk brand, our hypothesis was that a ribbon UI could:
 
 * Increase usability across all user types (e.g. daily and infrequent)
 * Increase learnability & discoverability for new and infrequent users (most common persona)
 * Increase familiarity, and thus ease of adoption, for existing Autodesk customers who could benefit from adding simulation to their design workflows
 
-**Classic menu/toolbar navigation paradigm, Simulation CFD 2013**
+**Classic menu/toolbar layout**
 {: .mdl-color-text--grey-600}
 
 ![Simulation CFD]({{ site.url }}/img/post-cfd-classic-menu-ui.png)
@@ -59,13 +59,13 @@ In addition to aligning better with the overall Autodesk brand, our hypothesis w
 
 ##### Research
 
-Before undertaking a large-scale UI redesign, we had to ask ourselves a number of questions and choose the appropriate methods.
+Before undertaking this potentially disruptive redesign, we had to ask a number of questions and choose appropriate methods.
 
+* What mental model are users coming in with? What are the patterns among users?
 * How are users interacting with our product or similar products? What is working? What isn't?
 * How often are commands used? In what order?
 * What are the workflows and dataflows in a typical organization?
-* Do we have an accurate model of our users (i.e. personas)? 
-* What are the big usability issues with the product?
+* What are usability issues with the existing product?
 * Who are the stakeholders? What are the business goals?
 
 **Ethnographic research**
@@ -95,6 +95,9 @@ Before undertaking a large-scale UI redesign, we had to ask ourselves a number o
 ##### Strategy
 
 **Design principles**
+
+A reminder to all in our "war room."
+
 {: .mdl-color-text--grey-600}
 
 ![Design Principles]({{ site.url }}/img/post-cfd-principles-s.jpg)
@@ -108,15 +111,13 @@ Before undertaking a large-scale UI redesign, we had to ask ourselves a number o
 
 ##### UI and Interaction Design
 
-I started low fidelity, exploring broad concepts.
-
-**Sketches of different ribbon alternatives**
+**Start low fidelity, explore broad concepts within the constraints**
 {: .mdl-color-text--grey-600}
 
 ![Sketching UI Concepts]({{ site.url }}/img/post-cfd-ribbon-sketch.jpg)
 {: .post-fullwidth-image}
 
-Based on card sorting and stakeholder reviews, I began wireframing the more promising patterns. These were reviewed with internal experts. 
+Based on card sorting and stakeholder reviews, refining the more promising designs and validating with internal experts...
 
 **Wireframes and Information Architecture**
 {: .mdl-color-text--grey-600}
@@ -124,7 +125,7 @@ Based on card sorting and stakeholder reviews, I began wireframing the more prom
 ![Wireframing UI Concepts]({{ site.url }}/img/post-cfd-ribbon-wire-clean.png)
 {: .post-fullwidth-image}
 
-The next step was to create a prototype that could be rapidly tested and updated in an iterative fashion. I was able to work directly with the front-end code to create and modify the prototype, and this would feed directly into the production implementation. 
+The next step was to create a prototype that could be rapidly tested and updated in an iterative fashion. With the chosen UI framework, I was able to work directly with the front-end code to create and modify the prototype which could then be tested and fed directly into the production pipeline. 
 
 **Prototyping in Blend and Visual Studio**
 {: .mdl-color-text--grey-600}
@@ -146,7 +147,7 @@ The next step was to create a prototype that could be rapidly tested and updated
 
 ##### Visual Design
 
-While a company-wide visual design language existed, I was responsible for icons and layout in our product.
+While a company-wide visual design system existed and some pieces could be re-used, I was ultimately responsible for icons and layout in our product.
 
 **Visual design iteration**
 {: .mdl-color-text--grey-600}
@@ -178,7 +179,7 @@ Finally, nothing is as satisfying as positive user feedback:
 
 #### Additional work
 
-This particular project serves as a broad example of my approach and skillset. I have designed a majority of the new and redesigned features in the versions listed above, so am happy to answer additional questions. For a list of what's new in each release, see the Autodesk Knowledge Network:
+This particular project serves as a broad example of my approach and skillset. I have designed a majority of the new and redesigned features in the products listed above, so am happy to answer additional questions. For a list of what's new in each release, see the Autodesk Knowledge Network:
 
 - [What's New in Autodesk® CFD 2017](https://knowledge.autodesk.com/support/cfd/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/SimCFD-WhatsNew/files/GUID-E68DA961-6B90-41D7-AFA0-FD771EDB60F9-htm.html)
 - [What's New in Autodesk® CFD 2016](https://knowledge.autodesk.com/support/cfd/learn-explore/caas/CloudHelp/cloudhelp/2017/ENU/SimCFD-WhatsNew/files/GUID-A27F10AE-67C6-45CB-959F-0F2074F4D131-htm.html)

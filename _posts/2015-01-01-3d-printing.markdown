@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "3D Printing and CNC"
+title:  "Physical Things"
 categories: sideproject
 image: img/project-hero-3d-printing.jpg
 permalink: /projects/3dprinting/
@@ -20,16 +20,20 @@ title-override: "3D Printing and Additive Manufacturing"
 
 #### Bike Light Mount
 
-A front bicycle rack blocks the beam of a handlebar mounted light, and with larger loads can even prevent mounting the light itself.
-
-Fortunately most racks offer numerous threaded eyelets for mounts, so I leveraged these to move the light forward and out of the way.
-
-After several design iterations, I settled on a design that could be easily mounted with an M5 bolt, using either a threaded or unthreaded eyelet (with nut). 
+After several prototypes, I settled on a design that could be easily mounted with an M5 bolt, using either a threaded or unthreaded eyelet (with nut). 
 
 ![Custom Light Mount]({{ site.url }}/img/post-3dprint-light-mount-sf.jpg)
 {: .post-fullwidth-image}
 
 ![Custom Light Mount]({{ site.url }}/img/post-3dprint-light-mount-sf-2.jpg)
+{: .post-fullwidth-image}
+
+#### Bike Bell Mount
+
+![Custom Bell Mount]({{ site.url }}/img/post-3dprint-bell_mount_render1.png)
+{: .post-fullwidth-image}
+
+![Custom Bell Mount]({{ site.url }}/img/post-3dprint-bell_mount_render2.png)
 {: .post-fullwidth-image}
 
 #### Coffee Grinder Hack
@@ -60,7 +64,7 @@ Download at [Thingiverse](https://www.thingiverse.com/thing:984399) or [Github](
 
 Also check out suneboe's improved remix [Thingiverse](https://www.thingiverse.com/thing:1640345)
 
-#### Composite Printing
+#### Hand Strap Mounting System
 
 How might we attach a safe, comfortable strap to a bodysurfing handplane? It should be adjustable, strong, buoyant, and resistant to salt water.
 
@@ -129,8 +133,13 @@ From there, I created several chocolates in the mold using Tcho baking chocolate
 ![Chocolate]({{ site.url }}/img/post-cnc-chocolate-making.jpg)
 {: .post-fullwidth-image}
 
-#### Coming soon
+#### Generative Design for Additive Manufacturing
 
-I am fascinated by the democratization of additive and subtractive manufacturing. Look for more soon!
+I am fascinated by the potential of generative design for additive manufacturing.
+
+I have been exploring [generative designs](https://gallery.autodesk.com/fusion360/projects/generative-design-aeropress-plunger) for an [Aeropress](https://gallery.autodesk.com/fusion360/projects/aeropress-coffee-maker) plunger.
+
+![Chocolate]({{ site.url }}/img/post-3dprint-aeropress_generative_tabletop.png)
+{: .post-fullwidth-image}
 
 

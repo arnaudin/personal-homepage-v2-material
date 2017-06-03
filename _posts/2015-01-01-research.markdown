@@ -6,19 +6,21 @@ image: img/project-hero-research.jpg
 permalink: /projects/research/
 blurb: I have experience leading usability studies, product usability benchmarks, end-to-end experience studies, heuristic evaluations, focus groups, and participatory design workshops.
 ---
-I have experience leading usability studies, product usability benchmarks, end-to-end experience studies, heuristic evaluations, focus groups, and participatory design workshops.
+I have experience leading qualitative and quantitative research including usability studies, surveys, product usability benchmarks, end-to-end experience studies, heuristic evaluations, focus groups, and participatory design workshops.
 
-Note: most the findings from these studies cannot be shown publicly. Identifying features have been scrubbed from the assets below which are intended to give a general feel. 
+Note: most the findings from these studies cannot be shown publicly. Identifying features have been scrubbed from the assets below which are intended to give a general feel for my experience. 
 
 #### LUMA
 
-I have completed the following [LUMA](https://www.luma-institute.com/) trainings and have been using this approach to human-centered innovation for over a year:
+The [LUMA Institute](https://www.luma-institute.com/) describes their approach as "a practical, easy-to-learn, flexible and scalable framework that people can apply in their daily work to tackle problems of all sizes." 
 
-- LUMA Introduction to Innovation through Human-Centered Design
-- LUMA Advancing Innovation through Human-Centered Design
-- LUMA Advanced Facilitation Pilot
+I am a [LUMA certified practicioner](https://cms.luma-institute.com/certificates/practitioner) and have completed the following training courses:
 
-The LUMA approach consists of numerous research methods (in addition to synthesis & creation) that I have practiced with both internal stakeholders and users. For example:
+- LUMA Introduction to Innovation through Human-Centered Design (July 2015)
+- LUMA Advancing Innovation through Human-Centered Design (July 2015)
+- LUMA Advanced Facilitation (August 2016)
+
+The LUMA approach consists of familiar research methods (in addition to synthesis & creation) that are strung together to collaboratively work towards desired outcomes. I have used these with in-person and remote teams, internally and with customers.
 
 - Interviewing 
 - Think-Aloud Testing
@@ -27,15 +29,18 @@ The LUMA approach consists of numerous research methods (in addition to synthesi
 - What's on Your Radar for prioritization
 - Abstraction Laddering to reconsider problem statements
 
+![LUMA Badge]({{ site.url }}/img/luma-practitioner_badge.png)
+{: .post-200width-image}
+
 #### Usability Benchmarking
 
-To quantify and track product usability, our team established a biennial full-product usability study. I worked with a research professional to implement this study -- I developed the user tasks, set up the sessions, served as notetaker and recorder, and was liaison to the product team. 
+"If you can't measure it, you can't improve it," so the saying goes. 
 
-In addition to the findings, this was the first big opportunity to get our development team observing users directly. I worked closely with the team to make sure developers attended sessions, and presented the findings periodically to the team.
+I have led efforts to quantify and track product usability ranging from customer satisfaction and system usability scores to full product usability benchmarking. 
 
-By running the benchmark with 15-20 users and measuring completion rate, time on task, and satisfaction we are able to establish an overall product usability index, and also break it down by key functional areas. For this particular study I identified over 80 usability and bug fix opportunities. 
+The benchmark study is conducted with 15-20 users. We measure completion rate, time on task, and satisfaction to establish a usability indices for the product as a whole and also by key functional area. The first time we conducted this study, I identified over 80 usability and bug fix opportunities in addition to the quantitative outcomes. 
 
-The benchmark was so successful in illustrating the importance of usability that we have prioritized a "top usability" initiative for each release for the past three years including 5-10 of the top issues.
+The benchmark was so successful in illustrating the importance of usability to the development team that we prioritized a "top usability" initiative for each release over three years, continually addressing the top 5-10 usability issues.
 
 **Usability factors by functional area** 
 {: .mdl-color-text--grey-600}
@@ -47,16 +52,16 @@ The benchmark was so successful in illustrating the importance of usability that
 
 ##### Framework
 
-As Autodesk has been moving from perpetual desktop licenses to connected subscription services, the full end-to-end user experience has become more important than ever for acquiring and retaining customers.
+As Autodesk moved from perpetual desktop licenses to connected subscription services, the full end-to-end user experience became more important than ever for acquiring and retaining customers.
 
-The total experience mapping project was an undertaking to develop a framework for the company that would allow us to map and measure the experience to improve it over time. The framework was synthesized from a series workshops in which I participated alongside many cross-divisional and cross-functional colleagues. 
+The total experience project was an undertaking to develop a company-wide framework that would allow us to map and measure the experience to improve it over time. The framework was synthesized from a series workshops in which I participated alongside many cross-divisional and cross-functional colleagues. 
 
 ![Flow Design Superbowl]({{ site.url }}/img/post-research-workshop.jpg)
 {: .post-fullwidth-image}
 
 ##### Total Experience Study
 
-This study took a multifaceted approach to apply the framework, starting by mobilizing internal stakeholders from all functional areas. This was a crucial step, instilling an early sense of ownership in the findings, opportunities, and actions. 
+In this study, our team took a multifaceted approach to apply the Total Experience framework, starting by mobilizing internal stakeholders from all functional areas. This was a crucial step, instilling an early sense of ownership in the findings, opportunities, and actions. 
 
 With a user researcher I planned, facilitated, and analyzed the following:
 
@@ -71,7 +76,7 @@ With a user researcher I planned, facilitated, and analyzed the following:
 
 ##### Outcomes
 
-One of the most valuable outcomes was the alignment and collaboration that arose from bringing together the various stakeholders and empowering them to identify and own opportunities in their functional area. We identified about 100 of these opportunities for improvement. I presented our story and findings at the first Autodesk UX summit in the fall of 2014.
+One of the most valuable outcomes was the alignment and collaboration that arose from bringing together the various stakeholders and empowering them to identify and own opportunities in their functional area. We identified about 100 of these opportunities for improvement. I presented our story and findings at the first Autodesk UX Summit in the fall of 2014.
 
 ##### Experience Map
 

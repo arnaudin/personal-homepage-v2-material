@@ -13,7 +13,7 @@ Nearly five years after it launched on Kickstarter, I finally read [Frank Chimer
 
 I'd recommend this book to all designers, and anyone interested in design. This is not a practical guide to becoming a better designer; instead be prepared to explore the philosophy of design through witty and metaphorical meditation. While I can see how some parts could come off as self-indulgent, it's a quick read that is guaranteed to make you think deeper about your work. 
 
-A few quotes that resonated with me:
+A look inside my Kindle highlights:
 
 > To be human is to tinker, to envision a better condition, and decide to work toward it by shaping the world around us.
 
