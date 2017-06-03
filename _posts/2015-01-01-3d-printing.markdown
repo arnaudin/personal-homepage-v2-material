@@ -7,138 +7,130 @@ permalink: /projects/3dprinting/
 blurb: I enjoy making things, and making things better. Highlighted 3D printing projects & prototypes. 
 title-override: "3D Printing and Additive Manufacturing"
 ---
-The opportunity that 3D printing provides creative designers and makers extends far beyond an endless supply of colorful plastic tchotchkes. I have found practical uses in rapid prototyping and one-off fixes & hacks. Here are a few examples, more to come: 
+#### Hardware Experience
+
+- MakerBot
+- Ultimaker
+- Autodesk Ember
+- Stratasys Objet Connex500
+- Mcor Iris 3D Paper Printer
+- Markforged Composite Printer
+
+### Projects
 
 #### Bike Light Mount
 
-**Problem**
+A front bicycle rack blocks the beam of a handlebar mounted light, and with larger loads can even prevent mounting the light itself.
 
-When I added a front rack to my bike, two problems became apparent with my headlight setup:
+Fortunately most racks offer numerous threaded eyelets for mounts, so I leveraged these to move the light forward and out of the way.
 
-1. The rack itself casted a shadow in front of the bike, made worse when I added a basket or load.
-2. When I added a taller basket or load the light couldn't even be mounted in the remaining space.
+After several design iterations, I settled on a design that could be easily mounted with an M5 bolt, using either a threaded or unthreaded eyelet (with nut). 
 
-**Solution**
-
-Moving the light forward and/or below the rack would solve the above issues. There were several threaded eyelets on the rack and fork that could be leveraged to mount a potential solution. After several prototypes I settled on a design that could be mounted to a threaded eyelet with an M5 bolt, or could be mounted to an unthreaded eyelet with an M5 bolt and corresponding hex nut. 
-
-![Custom Light Mount]({{ site.url }}img/post-3dprint-light-mount-sf.jpg)
+![Custom Light Mount]({{ site.url }}/img/post-3dprint-light-mount-sf.jpg)
 {: .post-fullwidth-image}
 
-![Custom Light Mount]({{ site.url }}img/post-3dprint-light-mount-sf-2.jpg)
+![Custom Light Mount]({{ site.url }}/img/post-3dprint-light-mount-sf-2.jpg)
 {: .post-fullwidth-image}
 
 #### Coffee Grinder Hack
 
-**Problem**
+The <a rel="nofollow" href="http://www.amazon.com/gp/product/B001802PIQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001802PIQ&linkCode=as2&tag=ryanarna-20&linkId=UVOYMNHMT7RI533J">Hario Skerton</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=ryanarna-20&l=as2&o=1&a=B001802PIQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is a good value hand grinder for the price, but develops a wobble over time due to the wear of the metal grinder shaft against a plastic part at a single point of contact. Ultimately this leads to uneven coffee grind sizes. 
 
-The <a rel="nofollow" href="http://www.amazon.com/gp/product/B001802PIQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001802PIQ&linkCode=as2&tag=ryanarna-20&linkId=UVOYMNHMT7RI533J">Hario Skerton</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=ryanarna-20&l=as2&o=1&a=B001802PIQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is a good value hand grinder for the price, but has a critical design flaw that becomes evident over time. You'll begin to notice this as a slight wobble in the grinding motion that will become more and more exaggerated over time. This is due to the metal grinder shaft interfacing with a plastic part at a single point of contact, and will eventually lead to uneven grind sizes. 
-
-**Solution**
-
-I designed this simple pair of parts to hug the shaft at a second, lower point of contact. This prevents the shaft from wobbling, thus keeping the grind size consistent. 
+I designed this simple pair of parts to hug the shaft at a second, lower point of contact. This prevents the shaft from wobbling, thus preventing wear and keeping the grind size consistent. 
 
 **Prints in place, partially assembled**
 {: .mdl-color-text--grey-600}
 
-![Coffee Grinder Hack]({{ site.url }}img/post-3dprint-coffee-grinder-assembly.jpg)
+![Coffee Grinder Hack]({{ site.url }}/img/post-3dprint-coffee-grinder-assembly.jpg)
 {: .post-fullwidth-image}
 
 **Top view, fully assembled**
 {: .mdl-color-text--grey-600}
 
-![Coffee Grinder Hack]({{ site.url }}img/post-3dprint-coffee-grinder-assembly-top.jpg)
+![Coffee Grinder Hack]({{ site.url }}/img/post-3dprint-coffee-grinder-assembly-top.jpg)
 {: .post-fullwidth-image}
 
 **Prototypes**
 {: .mdl-color-text--grey-600}
 
-![Coffee Grinder Hack]({{ site.url }}img/post-3dprint-coffee-protos-2.jpg)
+![Coffee Grinder Hack]({{ site.url }}/img/post-3dprint-coffee-protos-2.jpg)
 {: .post-fullwidth-image}
 
 Download at [Thingiverse](https://www.thingiverse.com/thing:984399) or [Github](https://github.com/arnaudin/Printable-STL/tree/master/Hario%20Skerton%20Grinder%20Spacer%20Bearing). 
 
+Also check out suneboe's improved remix [Thingiverse](https://www.thingiverse.com/thing:1640345)
+
 #### Composite Printing
 
-**Problem**
+How might we attach a safe, comfortable strap to a bodysurfing handplane? It should be adjustable, strong, buoyant, and resistant to salt water.
 
-How to attach a safe, comfortable strap to a handplane? It should be adjustable, strong, buoyant, and resistant to salt water.
-
-**Solution**
-
-I am currently experimenting with custom kevlar/nylon composite prints. These are super strong and light. 
+I am experimenting with custom kevlar/nylon composite prints. These are super strong and light. I also have designs I may machine from wood or metal in the future. 
 
 **CAD design rendering**
 {: .mdl-color-text--grey-600}
 
-![CAD Design]({{ site.url }}img/post-3dprint-cad-render.jpg)
+![CAD Design]({{ site.url }}/img/post-3dprint-cad-render.jpg)
 {: .post-fullwidth-image}
 
 **Second prototype off the print bed**
 {: .mdl-color-text--grey-600}
 
-![3D Print]({{ site.url }}img/post-3dprint-plug-1.jpg)
+![3D Print]({{ site.url }}/img/post-3dprint-plug-1.jpg)
 {: .post-fullwidth-image}
 
-**First prototype with adjustable strap**
+**Prototypes**
 {: .mdl-color-text--grey-600}
 
-![Print with Strap]({{ site.url }}img/post-3dprint-strap.jpg)
+![Prototypes]({{ site.url }}/img/post-3dprint-plug-variations.jpg)
 {: .post-fullwidth-image}
 
 **Fiber inlay design and layout**
 {: .mdl-color-text--grey-600}
 
-![Fiber inlay design]({{ site.url }}img/post-3dprint-fiber-inlays-3d.png)
+![Fiber inlay design]({{ site.url }}/img/post-3dprint-fiber-inlays-3d.png)
 {: .post-fullwidth-image}
-
-#### Zipper Pulls & Lanyard Beads
-
-Coming soon...
 
 ### CNC
 
-I've also recently become interested in subtractive manufacturing. I started with simple projects on the ShopBot and OtherMill, and just completed a [beginners course](http://www.instructables.com/id/Learn-CNC-The-Hard-Way/) on CNC at Autodesk's Pier 9. 
+Having completed the [beginners course](http://www.instructables.com/id/Learn-CNC-The-Hard-Way/) on CNC at Autodesk's Pier 9, here are some starter projects I have been working on. 
 
 #### Handplanes
 
-A bodysurfing handplane (or handboard) is a small surfboard for your hand. Depending on size and shape it can be used to more easily get barreled, help with optimal position on the wave face, and/or get more speed in the water. 
+A bodysurfing handplane (or handboard) is a small surfcraft for your hand. Depending on size and shape it can be used to more easily get barreled, help with optimal position on the wave face, and/or get more speed in the water. 
 
-This handplane was drawn as a 2D vector and cut out on a ShopBot. From there, I used a orbital and belt sanders to shape the rails, deck, and bottom. 
+This handplane was cut out on a ShopBot. From there, I used a orbital and belt sanders to refine the shape.
 
-![ShopBot]({{ site.url }}img/post-cnc-shopbot.jpg "ShopBot")
+![ShopBot]({{ site.url }}/img/post-cnc-shopbot.jpg "ShopBot")
 {: .post-fullwidth-image}
 
-![Handplane]({{ site.url }}img/page-cnc-handplane-backyard.jpg "Handplane")
+![Handplane]({{ site.url }}/img/page-cnc-handplane-backyard.jpg "Handplane")
 {: .post-vertical-image}
 
-![Handplane]({{ site.url }}img/post-cnc-handplane-finished.jpg "Handplane")
+![Handplane]({{ site.url }}/img/post-cnc-handplane-finished.jpg "Handplane")
 {: .post-vertical-image}
 
 **Next up...**
 {: .mdl-color-text--grey-600}
 
-![Handplane rendering]({{ site.url }}img/post-cnc-handplane-render.jpg)
+![Handplane rendering]({{ site.url }}/img/post-cnc-handplane-render.jpg)
 {: .post-fullwidth-image}
 
 #### Custom Chocolates
 
-For a unique Valentines Day gift, I created a mold for a custom chocolate piece.
+For a unique gift, I machined a positive from wax and then created a silicone mold to make custom chocolates.
 
-After a handful of concept sketches, I modeled variations of the chocolate positive in Fusion 360.
+I used Fusion 360 on the software side, and an Othermill desktop CNC mill for the machining. 
 
-I then took the model through CAM for Fusion for programming, and then to the OtherMill software. The positive was cut from machine wax on an OtherMill dekstop CNC mill. 
-
-One I cleaned up the positive, it was time to create the mold. To do this, I build temporary walls around the positive and poured in a two part, food safe silicone that sat for about a day. 
-
-![Chocolate mold]({{ site.url }}img/post-cnc-chocolate-mold.jpg)
-{: .post-vertical-image}
+![Chocolate mold]({{ site.url }}/img/post-cnc-chocolate-mold.jpg)
+{: .post-fullwidth-image}
 
 From there, I created several chocolates in the mold using Tcho baking chocolate. This gift was a hit on all levels!
 
-![Chocolate]({{ site.url }}img/post-cnc-chocolate-making.jpg)
-{: .post-vertical-image}
+![Chocolate]({{ site.url }}/img/post-cnc-chocolate-making.jpg)
+{: .post-fullwidth-image}
 
 #### Coming soon
 
-More CNC work coming soon! I have become fascinated with manufacturing processes and am in the process of getting certified for the CNC Shop at Autodesk's Pier 9 workshop. Here are a few models I am working on:
+I am fascinated by the democratization of additive and subtractive manufacturing. Look for more soon!
+
+

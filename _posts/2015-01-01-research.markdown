@@ -1,18 +1,35 @@
 ---
 layout: project
-title:  "Research"
+title:  "Research & Facilitation"
 categories: professional
 image: img/project-hero-research.jpg
 permalink: /projects/research/
-blurb: I serve as the research lead for the Autodesk Simulation UX group. I have experience leading usability studies, product usability benchmarks, end-to-end experience studies, heuristic evaluations, and focus groups.
+blurb: I have experience leading usability studies, product usability benchmarks, end-to-end experience studies, heuristic evaluations, focus groups, and participatory design workshops.
 ---
-I have experience leading usability studies, product usability benchmarks, end-to-end experience studies, heuristic evaluations, and focus groups.
+I have experience leading usability studies, product usability benchmarks, end-to-end experience studies, heuristic evaluations, focus groups, and participatory design workshops.
 
-Note: most the findings from these studies cannot be shown publicly. Identifying features have been scrubbed from the assets below which are intended to give a general feel. I can attempt to address specific questions about process. 
+Note: most the findings from these studies cannot be shown publicly. Identifying features have been scrubbed from the assets below which are intended to give a general feel. 
+
+#### LUMA
+
+I have completed the following [LUMA](https://www.luma-institute.com/) trainings and have been using this approach to human-centered innovation for over a year:
+
+- LUMA Introduction to Innovation through Human-Centered Design
+- LUMA Advancing Innovation through Human-Centered Design
+- LUMA Advanced Facilitation Pilot
+
+The LUMA approach consists of numerous research methods (in addition to synthesis & creation) that I have practiced with both internal stakeholders and users. For example:
+
+- Interviewing 
+- Think-Aloud Testing
+- Stakeholder Mapping to understand the human side of a system
+- Rose Thorn Bud, Visualize the Vote, and Affinity Clustering to solicit feedback
+- What's on Your Radar for prioritization
+- Abstraction Laddering to reconsider problem statements
 
 #### Usability Benchmarking
 
-To quantify and track product usability, we established a biennial full-product usability study. I worked with a research professional to implement this study -- I developed the user tasks, set up the sessions, served as notetaker and recorder, and was liaison to the product team. 
+To quantify and track product usability, our team established a biennial full-product usability study. I worked with a research professional to implement this study -- I developed the user tasks, set up the sessions, served as notetaker and recorder, and was liaison to the product team. 
 
 In addition to the findings, this was the first big opportunity to get our development team observing users directly. I worked closely with the team to make sure developers attended sessions, and presented the findings periodically to the team.
 
@@ -23,18 +40,18 @@ The benchmark was so successful in illustrating the importance of usability that
 **Usability factors by functional area** 
 {: .mdl-color-text--grey-600}
 
-![Tablet Vision Story]({{ site.url }}img/post-research-baseline-scrubbed.png)
+![Tablet Vision Story]({{ site.url }}/img/post-research-baseline-scrubbed.png)
 {: .post-fullwidth-image}
 
 #### Total Experience Mapping
 
 ##### Framework
 
-As Autodesk has been moving from desktop product licenses to connected subscription services, the full end-to-end user experience has become more important than ever for acquiring and retaining customers.
+As Autodesk has been moving from perpetual desktop licenses to connected subscription services, the full end-to-end user experience has become more important than ever for acquiring and retaining customers.
 
 The total experience mapping project was an undertaking to develop a framework for the company that would allow us to map and measure the experience to improve it over time. The framework was synthesized from a series workshops in which I participated alongside many cross-divisional and cross-functional colleagues. 
 
-![Flow Design Superbowl]({{ site.url }}img/post-research-workshop.jpg)
+![Flow Design Superbowl]({{ site.url }}/img/post-research-workshop.jpg)
 {: .post-fullwidth-image}
 
 ##### Total Experience Study
@@ -49,7 +66,7 @@ With a user researcher I planned, facilitated, and analyzed the following:
 - Customer satisfaction surveys
 - Community analysis across forums and social
 
-![Tablet Vision Story]({{ site.url }}img/post-research-total-experience-journey.png)
+![Tablet Vision Story]({{ site.url }}/img/post-research-total-experience-journey.png)
 {: .post-fullwidth-image}
 
 ##### Outcomes
@@ -60,5 +77,5 @@ One of the most valuable outcomes was the alignment and collaboration that arose
 
 A core deliverable was a consolidated experience map that provides a concise picture of what a user is doing, thinking, and feeling at each subphase in the customer journey. It combines quantitative data with real quotes and observations. This has been used to get buy-in from leadership, begin cross-functional collaborative conversations, and mobilize the development teams. 
 
-![Experience Map]({{ site.url }}img/post-research-experience-map.jpg)
+![Experience Map]({{ site.url }}/img/post-research-experience-map.jpg)
 {: .post-fullwidth-image}

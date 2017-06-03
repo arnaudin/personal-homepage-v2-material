@@ -4,8 +4,10 @@ title:  "Web & Mobile Viewer"
 categories: professional
 image: img/post-simulation-viewer-hero.jpg
 permalink: /projects/simulation-viewer/
-blurb: The design feedback loop provided by simulation can be a collaborative and interactive process. The Simulation Viewer is a step towards making results broadly sharable, available anywhere, and with additional collaboration features such as annotation and commenting. 
+blurb: Making the simulation workflow more connected, collaborative, and interactive.
 ---
+The design feedback loop provided by simulation is a part of a collaborative and interactive process. The Simulation Viewer is a step towards making results broadly sharable and available anywhere, along with additional collaboration features such as annotation and commenting. 
+
 #### Problem
 
 A research team was formed to test the hypothesis that simulation collaboration workflows had not kept pace with the increasing and cross-functional role that simulation plays throughout the product design process. Technology in the workplace had also been rapidly evolving, yet we were not leveraging potential web and mobile capabilities. 
@@ -24,13 +26,13 @@ I designed UI, interactions, and visual components for the simulation layer of t
 
 ##### Vision
 
-![Web Vision Story]({{ site.url }}img/post-viewer-vision-web.png)
+![Web Vision Story]({{ site.url }}/img/post-viewer-vision-web.png)
 {: .post-fullwidth-image}
 
-![Mobile Vision Story]({{ site.url }}img/post-viewer-vision-mobile.png)
+![Mobile Vision Story]({{ site.url }}/img/post-viewer-vision-mobile.png)
 {: .post-fullwidth-image}
 
-![Tablet Vision Story]({{ site.url }}img/post-viewer-vision-tablet.png)
+![Tablet Vision Story]({{ site.url }}/img/post-viewer-vision-tablet.png)
 {: .post-fullwidth-image}
 
 ##### Design
@@ -38,13 +40,13 @@ I designed UI, interactions, and visual components for the simulation layer of t
 **Browser-based Viewer** 
 {: .mdl-color-text--grey-600}
 
-![Browser-based Simulation Viewer]({{ site.url }}img/post-viewer-web.png)
+![Browser-based Simulation Viewer]({{ site.url }}/img/post-viewer-web.png)
 {: .post-fullwidth-image}
 
 **Mobile Viewer** 
 {: .mdl-color-text--grey-600}
 
-![Mobile Simulation Viewer]({{ site.url }}img/post-viewer-mobile-legend.png)
+![Mobile Simulation Viewer]({{ site.url }}/img/post-viewer-mobile-legend.png)
 {: .post-vertical-image}
 
 **Simulation legend** 
@@ -52,13 +54,13 @@ I designed UI, interactions, and visual components for the simulation layer of t
 Exploring visual styles for use in the viewer
 {: .mdl-color-text--grey-600}
 
-![Legend Visual Design Alternatives]({{ site.url }}img/post-viewer-legend-alternatives.png)
+![Legend Visual Design Alternatives]({{ site.url }}/img/post-viewer-legend-alternatives.png)
 {: .post-fullwidth-image}
 
 Exploring visual styles in context
 {: .mdl-color-text--grey-600}
 
-![Legend Visual Design Alternatives]({{ site.url }}img/post-viewer-legend-context.png)
+![Legend Visual Design Alternatives]({{ site.url }}/img/post-viewer-legend-context.png)
 {: .post-fullwidth-image}
 
 ##### Outcome

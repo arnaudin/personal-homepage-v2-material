@@ -9,7 +9,7 @@ image: img/gradient-emerald.png
 ---
 Nearly five years after it launched on Kickstarter, I finally read [Frank Chimero's](https://twitter.com/frank_chimero) excellent design handbook, *[The Shape of Design](http://www.shapeofdesignbook.com/)*. The Kickstarter hardcover edition looks to be beautifully crafted, so if you can [get your hands on that](http://amzn.to/1nLN6WW) it would be the recommended way to go. If not, do as I did and grab the **free** ebook from Frank's site. 
 
-![The Shape of Design]({{ site.url }}img/post-blog-shape-of-design-cover.jpg)
+![The Shape of Design]({{ site.url }}/img/post-blog-shape-of-design-cover.jpg)
 
 I'd recommend this book to all designers, and anyone interested in design. This is not a practical guide to becoming a better designer; instead be prepared to explore the philosophy of design through witty and metaphorical meditation. While I can see how some parts could come off as self-indulgent, it's a quick read that is guaranteed to make you think deeper about your work. 
 
