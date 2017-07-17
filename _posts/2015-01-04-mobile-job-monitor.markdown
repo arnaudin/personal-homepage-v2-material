@@ -2,7 +2,7 @@
 layout: project
 title:  "Mobile Job Monitor"
 categories: professional
-image: img/gradient-emerald.png
+image: img/post-job-monitor-layers-thumb.png
 permalink: /projects/jobmonitor/
 blurb: Monitor your cloud simulations from anywhere.
 ---
