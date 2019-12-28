@@ -1,4 +1,4 @@
-Source for my personal site: [Ryan Arnaudin](http://ryanarnaudin.com).
+Source for my personal site.
 
 Also live on Github: [Ryan Arnaudin](http://arnaudin.github.io/)
 
