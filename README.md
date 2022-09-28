@@ -1,7 +1,5 @@
 Source for my personal site.
 
-Also live on Github: [Ryan Arnaudin](http://arnaudin.github.io/)
-
 ## Credits: jekyll-mdl
 Theme is modified [jekyll-mdl](https://github.com/gdg-managua/jekyll-mdl) by [Oscar Cortez](http://github.com/oscarmcm) & [Byron Corrales](https://github.com/byroncorrales).
 
