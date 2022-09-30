@@ -57,8 +57,8 @@ I provided high-level design guidance, basic research, and usability evaluation 
 	  </div>
 	</div>
 	<div class="mdl-card__media mdl-color--white mdl-color-text--grey-600">
-	  <a href="http://ryanarnaudin.com/img/post-flowdesign-falconlabs.png">
-		<img style="width: 100%" src="http://ryanarnaudin.com/img/post-flowdesign-falconlabs.png">
+	  <a href="http://ryanarnaudin.com/sites/v2/img/post-flowdesign-falconlabs.png">
+		<img style="width: 100%" src="http://ryanarnaudin.com/sites/v2/img/post-flowdesign-falconlabs.png">
 	  </a>
 	</div>
   </div>
@@ -70,8 +70,8 @@ I provided high-level design guidance, basic research, and usability evaluation 
 	  </div>
 	</div>
 	<div class="mdl-card__media mdl-color--white mdl-color-text--grey-600">
-	  <a href="http://ryanarnaudin.com/img/post-flowdesign-commercial-release.png">
-		<img style="width: 100%" src="http://ryanarnaudin.com/img/post-flowdesign-commercial-release.png">
+	  <a href="http://ryanarnaudin.com/sites/v2/img/post-flowdesign-commercial-release.png">
+		<img style="width: 100%" src="http://ryanarnaudin.com/sites/v2/img/post-flowdesign-commercial-release.png">
 	  </a>
 	</div>
   </div>     
